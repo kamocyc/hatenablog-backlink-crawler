@@ -1,0 +1,1163 @@
+[
+  {
+    "username": "bayan",
+    "articles": [
+      {
+        "title": "アプリのアンインストール",
+        "link": "https://bayan.hatenadiary.com/entry/2020/01/17/200018",
+        "pubDate": "Fri, 17 Jan 2020 20:00:18 +0900",
+        "description": "<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Windows\">Windows</a> 10</h3>\n\n<p>田を右クリック</p>\n\n<p>→ 「設定」</p>\n\n<p>→ 対象のアプリをクリック</p>\n\n<p>→「アンインストール」をクリック</p>\n\n<p>→「このアプリとその関連情報がアンインストールされます。」と聞いてくるので「アンインストール」をクリック</p>\n\n<p>→ 「ユーザーアカウント制御 このアプリがデ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9\">バイス</a>に変更を加えることを許可しますか?」と聞いてくるので「はい」をクリック</p>\n\n<p>→ アプリによっては本当にアンインストールするか聞いてきたりするので、「続行」とか「はい」とかをクリック、あるいは指示に従う。</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "holypp",
+    "articles": []
+  },
+  {
+    "username": "ndto510870xx",
+    "articles": []
+  },
+  {
+    "username": "tailtame",
+    "articles": []
+  },
+  {
+    "username": "makotoS",
+    "articles": []
+  },
+  {
+    "username": "nayuneko",
+    "articles": []
+  },
+  {
+    "username": "ngsw",
+    "articles": []
+  },
+  {
+    "username": "cohal",
+    "articles": []
+  },
+  {
+    "username": "kakkoya",
+    "articles": []
+  },
+  {
+    "username": "ogawa0071",
+    "articles": []
+  },
+  {
+    "username": "valinst",
+    "articles": []
+  },
+  {
+    "username": "it_akumi",
+    "articles": []
+  },
+  {
+    "username": "shin_sk",
+    "articles": []
+  },
+  {
+    "username": "otihateten3510",
+    "articles": []
+  },
+  {
+    "username": "kotsan",
+    "articles": []
+  },
+  {
+    "username": "lw2s",
+    "articles": []
+  },
+  {
+    "username": "lm0x",
+    "articles": []
+  },
+  {
+    "username": "perl-o-pal",
+    "articles": []
+  },
+  {
+    "username": "tsubuo",
+    "articles": []
+  },
+  {
+    "username": "mswar",
+    "articles": []
+  },
+  {
+    "username": "Tatada",
+    "articles": []
+  },
+  {
+    "username": "YaSuYuKi",
+    "articles": []
+  },
+  {
+    "username": "chess-news",
+    "articles": []
+  },
+  {
+    "username": "asiamoth",
+    "articles": []
+  },
+  {
+    "username": "renresozz",
+    "articles": []
+  },
+  {
+    "username": "hisasann",
+    "articles": []
+  },
+  {
+    "username": "ymtk0815",
+    "articles": []
+  },
+  {
+    "username": "asa_ca3",
+    "articles": []
+  },
+  {
+    "username": "eedamame",
+    "articles": []
+  },
+  {
+    "username": "hrfmmymt",
+    "articles": []
+  },
+  {
+    "username": "happo31",
+    "articles": [
+      {
+        "title": "プログラミングを学ぶにあたって詰まったことと、そこから学んだこと",
+        "link": "https://happo31sprogblog.hatenablog.jp/entry/2020/01/17/184756",
+        "pubDate": "Fri, 17 Jan 2020 18:47:56 +0900",
+        "description": "<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fmizchi.hatenablog.com%2Fentry%2F2020%2F01%2F16%2F212617\" title=\"プログラミングを学ぶにあたって詰まったことと、そこから学んだこと - mizchi&#39;s blog\" class=\"embed-card embed-blogcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"https://mizchi.hatenablog.com/entry/2020/01/16/212617\">mizchi.hatenablog.com</a></cite></p>\n\n<blockquote><p>みんなも何に詰まったか、書いてみてください</p></blockquote>\n\n<p>わかりました。</p>\n\n<h1>プログラミング歴</h1>\n\n<h3>12歳</h3>\n\n<p>簡単にホームページを作れるみたいなサービスを使っていた僕は、なんかとりあえずサイトを賑やかにしたくて色々探していたら「ホームページの背景に雪を降らす」というやつがあり、そのときに出てきた <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> というものは一体なんぞや？というところから <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> という<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC\">プログラミング言語</a>を知った。で、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC\">プログラミング言語</a>を使いこなすとゲームが作れると聞いて、ゲームばっかりやっていたクソガキの僕は、早速<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D6%A5%ED%A5%C3%A5%AF%CA%F8%A4%B7\">ブロック崩し</a>の作り方を解説しているサイトを見ながら見様見真似で作った。完成はしなかった。（理由は後述）</p>\n\n<p>挫折したあと、こんなものを見つけて、あ、これも <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> じゃん、ということで手を出してみたりもした。これは一応動いた。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnico.ms%2Fsm3058430\" title=\"【誰でも作れる】侵略シリーズ【コピペで遊べる】\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"https://nico.ms/sm3058430\">nico.ms</a></cite></p>\n\n<h3>中学生</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C9%D4%C5%D0%B9%BB\">不登校</a>になったあと相談室に通うようになり、そこにあったパソコンで <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a> の勉強をした。当時その教室に定期的に来てくれていた数学の先生がプログラミングが出来る人で、僕に色々なことを教えてくれた。ピラミッドを出力するプログラムが出来たときはめちゃくちゃ嬉しかった。</p>\n\n<p>制御構文はこの辺ではほぼ習得できていたような覚えがある。</p>\n\n<h3>高校生</h3>\n\n<p>1年ぐらいプログラミングをしていなかった時期があったが、なぜかそのあと「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a>の次は何を学ぼっかな。おや、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a>ってのがあるらしいじゃん、これやるか」という流れで<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/VC%2B%2B\">VC++</a>沼にハマった。DXライブラリというものを使うと<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a>でも簡単にゲームが作れるらしいと聞いて、これに手を出してみたりもした。前述の <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> で作ったやつを<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a>に移植するということもやってみた。実際にちゃんと動いた時はめちゃくちゃ嬉しかったし、何より楽しかった。</p>\n\n<p>関数の概念はこの辺でようやく理解した。<br/>\nあと、ついでに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AA%A5%D6%A5%B8%A5%A7%A5%AF%A5%C8%BB%D8%B8%FE\">オブジェクト指向</a>の考え方も分かった。</p>\n\n<h3>大学生</h3>\n\n<p>1年生の頃にようやく文字と文字列の違いを理解した。その後、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a>以外にも<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%23\">C#</a>や<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/PHP\">PHP</a>やらにも手を出した結果、自分はなんでも作れる気分になった。</p>\n\n<p>コンピューターサイエンスの基本や、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Linux\">Linux</a>の基本的な仕組みなんかはこの辺りで覚えた。\nあと、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/MVC\">MVC</a>やらMVMやらMVVMやらといった<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3\">アーキテクチャ</a>もこの辺で覚えた、確かWinFormsやら<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/WPF\">WPF</a>やらも触っていたので。</p>\n\n<h3>新卒時代(1年目~2年目)</h3>\n\n<p>新卒で入りながらも、経験者枠ということで周りにプログラミングを教えていた。正直なところ「なんでお前らIT企業に入ってきてるのにコード書いたことがないんだ？」と思っていたが、彼らはとても頭がよかったので、1、2ヶ月で普通にコードを書けるようになっているのをみて「僕は凡人かもしれない」と思った。</p>\n\n<p>研修中通して「僕はなんでも出来るぜ」って顔をしていたら、当時人が居なかったらしい新規プロジェクトでウェブフロントエンドを任されることになった。<br/>\nとりあえず<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a>と<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/jQuery\">jQuery</a>を導入してそこそこの規模のアプリケーションを作っていたが、型の付かない<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a>でSPAをするのはバカであるということに気が付き、途中からTypeScriptを推しまくってプロジェクトにTypeScriptとwebpackを導入することにすることに成功した。また、フロントエンドにAngular4を使っていた炎上プロジェクトにTypeScript経験者として放り込まれて、Angular4を勉強しながらパートナー社員にTypeScriptを教えたりもした。</p>\n\n<p>バージョン管理の重要性にこの2年間で気がついた。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C9%A5%EF%A5%F3%A5%B4\">ドワンゴ</a>時代</h3>\n\n<p>なんで自分フロントエンドやってんだろうな、という気持ちが拭えなかったが、とにかく前職は給料が安すぎたのでフロントエンドエンジニアとして入社した。<br/>\n<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/HTML5\">HTML5</a>プレイヤーがめっちゃモダンな技術スタック(React.js, webpack, Babel.js)で色々と学びがあったが、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a>で書かれていたことについて渋い顔をずっとしていたら、TypeScriptに置き換えていくことになったのでよかった。<br/>\n僕が書く新機能に関しては全てTypeScriptで書かせてもらえてしあわせだった。<br/>\n色々あって病気にはなってしまったが、React.jsの基礎〜発展的な使い方やFlux<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3\">アーキテクチャ</a>についての理解はここで得られた。</p>\n\n<h3>今</h3>\n\n<p>無になってはいるが、 Docker の無限の可能性を信じて脱<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Windows\">Windows</a>をしている。</p>\n\n<h1>学習過程で詰まったこと</h1>\n\n<h3>初<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a></h3>\n\n<p>メモ帳でやっていたので、 <code>{}</code> の数が合わなくて発狂していたりした。<br/>\nさっき「理由は後述」とか思わせぶりなことを書いたけど、ようするにメモ帳で書いてたせいで一定以上の大きさのコードを扱うのが不可能だったせいです。<br/>\nちなみにまともな<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C6%A5%AD%A5%B9%A5%C8%A5%A8%A5%C7%A5%A3%A5%BF\">テキストエディタ</a>を導入するまでここから2年の月日が掛かりました。<br/>\nガキだったので無駄に知識の吸収力はあったせいか、特に詰まった記憶がない。<br/>\n強いて言えば関数に分ける重要性はよく分かってなかったと思う。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a></h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%2B%2B\">C++</a>の「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%E9\">コンパイラ</a>」が「複数ある」という概念がいまいち理解できていなかった。<br/>\nなんで？1個でよくない？？？みたいな。<br/>\nまあなんにせよ、自分にとってプログラミングとは黒い画面に白い文字を出して遊ぶものだったので、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%E9\">コンパイラ</a>の差みたいなのにはあまり興味がなかったのかもしれない。</p>\n\n<p>あと、ポインタは難しいぞ、と散々脅されていたけど、言うほど難しくなかった。<br/>\n関数については「このDXライブラリの初期化部分を関数にしてヘッダに書いておけば便利じゃね？」という気付きをして無事に解決しました。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%DE%A5%F3%A5%C9%A5%E9%A5%A4%A5%F3\">コマンドライン</a>インターフェース(<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/CLI\">CLI</a>)</h3>\n\n<p>これが結構鬼門だった。<br/>\nコマンドでパソコンを操作？？？？？？は？？？？？？？？超能力者か？？？？？？？？？（当然、補完があることなど<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C8%F9%BF%D0%A4%E2\">微塵も</a>思わない）という印象だった。なので、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%EB\">コンパイル</a>という操作がない<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a>や、一度設定してしまえばボタンひとつで<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%EB\">コンパイル</a>から実行までやってくれる<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Visual%20Studio\">Visual Studio</a><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%AB%A4%E9%A4%B7\">からし</a>ばらく離れられなかった。<br/>\n昔から僕は体系づけてプログラミングを学んでいるわけではなくて、単に興味の向いたものを食べているだけに過ぎなかったので、こういう大事なところがすっぱ抜けたのだと思う。<br/>\nプログラミングを始めるときは、何々言語！とか何々<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D5%A5%EC%A1%BC%A5%E0%A5%EF%A1%BC%A5%AF\">フレームワーク</a>！！！じゃなくて、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/CLI\">CLI</a>でパソコンを操作することをまず理解していくのがよいのではないかな、と今では思う。</p>\n\n<h3>文字列</h3>\n\n<p>文字列に詰まったのは端的に言えば<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a>のせいだとは思う。<br/>\n<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/C%B8%C0%B8%EC\">C言語</a>で文字列が分からないということは、ファイルI/Oの使い方も当然よく分からなかった。<br/>\n作ったゲームのマップデータをヘッダファイルに直接書いて修正するたびに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%F3%A5%D1%A5%A4%A5%EB\">コンパイル</a>し直してたりしてたこともあった。<br/>\n配列は理解できてたんだけどね…たぶん配列と文字列が根っこの部分では同じということが理解出来てなかったのかもしれない、それに気がついたらすんなり理解できたので。</p>\n\n<h3>設計の重要さ</h3>\n\n<p>いつも頭の中で描いたゴールを単純に目指しながらコードを書いていくスタイルで作っていたけど、それは多人数開発ではまずいということに社会人になってから気が付いた。<br/>\nたとえ趣味のコードであっても、最低でも大まかな状態遷移図と前提条件は決めておくべきだなと思う。</p>\n\n<h1>学んだこと</h1>\n\n<h3>全ての操作は自動化が可能であるべきで、出来ないものは早急に改善すべき</h3>\n\n<p>これは環境構築からテスト環境を用意する過程全てに対して言える。<br/>\n自動化が出来ないと必ずどこかの手順でおばあちゃんの知恵袋的な操作が入ってきてしまう余地が生まれてしまい、そういった小さな穴は気が付くと手がつけられないほどに大きくなっていたりするので、とにかくドキュメント化と自動化は同時に進行すべきである。<br/>\nというか、ドキュメント化が出来るならおそらく自動化も可能であるはず（べき）なので、環境に依存するパラメータの入力は極力設定ファイルに切り出して、手順に対する解釈の曖昧さを取り除いていくのが重要である。</p>\n\n<h3>環境は常にポータブルであること</h3>\n\n<p>「このデータはここにしかない」という状況は常に避けるべきである。<br/>\nなので自分は書いたコードはどんなに小さくても必ず<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/github\">github</a>に上げているし、別にそれが恥ずかしいと思うことは最近は全くない。(最初はそういうこともあったけど)<br/>\nリソースデータに関しては、それらが設定ファイルのようなものから復元ができるならそれに全部任せたり、OneDriveや<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Dropbox\">Dropbox</a>と言った<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AF%A5%E9%A5%A6%A5%C9\">クラウド</a>ストレージを利用したり、とにかく明日このパソコンが突然爆発しても（開発資産的な意味で）ノーダメージな環境作りを意識することが大切だと思う。</p>\n\n<h3>何かを作るときは最小ゴールを決めてとりあえずリリースする</h3>\n\n<p>一生ベータみたいな状態を避けたいという意味。<br/>\n穴が空きまくりでもバグが出まくりでも、とりあえず自分の手元だけででも動く！！ってなったら ver 1.0.0 を出すべきだと思う。<br/>\n一回ちゃんとリリースすれば、それを更新していこうっていう<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%BB%A5%F3%A5%C6%A5%A3%A5%D6\">インセンティブ</a>が働くし、更新してれば誰かが使ってくれるかもしれないし、もしかしたらそこからフィードバックやIssueを上げてくれたりするかもしれない。<br/>\n少なくとも、僕は個人開発の領域では「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/SIer\">SIer</a>的な作り方は悪である」と断言できると思っている。(ほんとはプロダクトのコードでもそういうふうにしたいんだけど、僕はいままでそういうことを決められる立場になったことがないので…)</p>\n\n<h3>テスト書きたい</h3>\n\n<p>書きたいよね…。</p>\n\n<h1>終わり</h1>\n\n<p>スターと仕事と名声が欲しいです！！！！</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "FunnyBunnyDizzy",
+    "articles": []
+  },
+  {
+    "username": "chiiia12",
+    "articles": []
+  },
+  {
+    "username": "root2nd",
+    "articles": []
+  },
+  {
+    "username": "udzura",
+    "articles": []
+  },
+  {
+    "username": "cu39",
+    "articles": []
+  },
+  {
+    "username": "xbwcx839",
+    "articles": []
+  },
+  {
+    "username": "gin0606",
+    "articles": []
+  },
+  {
+    "username": "marmot1123",
+    "articles": []
+  },
+  {
+    "username": "kjw_junichi",
+    "articles": []
+  },
+  {
+    "username": "k2k2monta",
+    "articles": []
+  },
+  {
+    "username": "yaya-w-1026",
+    "articles": []
+  },
+  {
+    "username": "mitukiii",
+    "articles": []
+  },
+  {
+    "username": "rlho",
+    "articles": []
+  },
+  {
+    "username": "umazura_factory",
+    "articles": []
+  },
+  {
+    "username": "kamemoge",
+    "articles": []
+  },
+  {
+    "username": "tek_koc",
+    "articles": []
+  },
+  {
+    "username": "fukken",
+    "articles": []
+  },
+  {
+    "username": "hagej_60527",
+    "articles": []
+  },
+  {
+    "username": "abababababababa",
+    "articles": []
+  },
+  {
+    "username": "yashinegi",
+    "articles": []
+  },
+  {
+    "username": "yoshi-na",
+    "articles": []
+  },
+  {
+    "username": "noukomakuta",
+    "articles": []
+  },
+  {
+    "username": "txmx5",
+    "articles": []
+  },
+  {
+    "username": "amring",
+    "articles": []
+  },
+  {
+    "username": "L3msh0",
+    "articles": []
+  },
+  {
+    "username": "hk03ne",
+    "articles": []
+  },
+  {
+    "username": "kiyugigi",
+    "articles": []
+  },
+  {
+    "username": "uchiuchiyama",
+    "articles": []
+  },
+  {
+    "username": "mval1",
+    "articles": []
+  },
+  {
+    "username": "quick_past",
+    "articles": []
+  },
+  {
+    "username": "j1nsuke",
+    "articles": []
+  },
+  {
+    "username": "utonn",
+    "articles": []
+  },
+  {
+    "username": "DustOfHuman",
+    "articles": []
+  },
+  {
+    "username": "alcus",
+    "articles": []
+  },
+  {
+    "username": "esocchi",
+    "articles": []
+  },
+  {
+    "username": "inari111",
+    "articles": []
+  },
+  {
+    "username": "sharaku3eyes",
+    "articles": []
+  },
+  {
+    "username": "bukki",
+    "articles": []
+  },
+  {
+    "username": "l08084",
+    "articles": []
+  },
+  {
+    "username": "gonhainu",
+    "articles": []
+  },
+  {
+    "username": "kinushu",
+    "articles": []
+  },
+  {
+    "username": "mas-higa",
+    "articles": []
+  },
+  {
+    "username": "daigakuinnsei",
+    "articles": []
+  },
+  {
+    "username": "winterfall",
+    "articles": []
+  },
+  {
+    "username": "popmusik3141",
+    "articles": [
+      {
+        "title": "日本でポッドキャストやオーディオブックが流行らない理由？",
+        "link": "https://www.nejimakiblog.com/entry/japan-podcast-popular-ninki-audiobook",
+        "pubDate": "Fri, 17 Jan 2020 21:33:42 +0900",
+        "description": "<h2>Podcastが不人気な理由</h2>\r\n<p>はてなブックマークで話題の下記noteについて思うことをだらだらと書きます。</p>\r\n<p><iframe class=\"embed-card embed-webcard\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\" title=\"日本でオーディオブックやポッドキャストが流行らないワケがわかった気がした｜りんがる aka 大原ケイ｜note\" src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Flingualina%2Fn%2Fn05732ac013ee\" frameborder=\"0\" scrolling=\"no\"></iframe><cite class=\"hatena-citation\"><a href=\"https://note.com/lingualina/n/n05732ac013ee\">note.com</a></cite></p>\r\n<p>一部を抜粋。</p>\r\n<blockquote>\r\n<p>日本にしばらくいて感じるのが、日常的（恒常的）にけっこううるさい音声が流れてても気にならない鈍感さ。</p>\r\n</blockquote>\r\n<p>本当にそうでしょうか？？<br /><strong>\"うるさい音声が流れてる\"</strong>のは決して日本だけじゃないはず。<br /><br /></p>\r\n<p>個人的な考えを書くと、日本人は文化的に</p>\r\n<p><span style=\"color: #d32f2f;\"><strong>真剣に聞くのと、</strong></span><br /><span style=\"color: #d32f2f;\"><strong>聞き流しするのとの \"使い分け\"が苦手</strong></span></p>\r\n<p>なんじゃないかな、と思ったり。</p>\r\n<p>\"流し聞き\"に関してはほとんどが音楽に奪われているので、<br />声を聴く文化があまりないのも原因かと。</p>\r\n<p> </p>\r\n<p>あと<strong>日本語の文法的に、</strong><br /><strong>\"聴く\"より\"読む\" 方が適している</strong>のもかなり大きいですね。</p>\r\n<p>SVOがきれいに出てくる英語と比べ、<br />主語を省略できたりする日本語は流し聞きに向かないというか。</p>\r\n<p> <br />これだけじゃ終われないので、<br />下記にそれぞれが流行らない理由の考察を軽く書いてみました。<br /><br /></p>\r\n<h3>オーディオブックの不人気</h3>\r\n<p>オーディオブックが流行らない理由としては、<br />単純に<span style=\"color: #d32f2f;\"><strong>日本語コンテンツが少なすぎること</strong></span>があげられるかと。</p>\r\n<p> </p>\r\n<p>例えばみんなが知っているわかりやすい例として、<br /><strong>村上春樹</strong>さんのオーディオブックを見てみましょう。<br /><br /></p>\r\n<p>アマゾンジャパンで検索するとまず出てくるのは、<br />『<a href=\"https://amzn.to/2syvKER\">ロング・グッドバイ</a>』。</p>\r\n<p>ハルキ翻訳のレイモンド・チャンドラーの名作です。<br /><br />うーん。<br />・・・まず検索一番目の候補に出てくるのが本人の著作でないという。</p>\r\n<p> </p>\r\n<p>２、３番目は村上春樹さんの本なのですが、<br />どちらもEnglish版。</p>\r\n<p>この時点で<br /><strong><span style=\"color: #d32f2f;\">「音で聴こうかな？」と思う日本人は相当削られる</span></strong>わけです。</p>\r\n<p> </p>\r\n<p>しかもなんとも物悲しいのが、<br /><strong>英語では相当数の著作が音声化されているのに、</strong><br /><strong>日本語コンテンツはなんとゼロ。</strong></p>\r\n<p><iframe class=\"embed-card embed-blogcard\" style=\"display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;\" title=\"2019年に心揺さぶられたKindleの電子書籍10選 - 世界のねじを巻くブログ@世界一周\" src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nejimakiblog.com%2Fentry%2Fkindle-review-book-2019-osusume-hon\" frameborder=\"0\" scrolling=\"no\"></iframe><cite class=\"hatena-citation\"></cite></p>\r\n<p>そもそも日本を代表する作家で、<br />かつ人気も間違いなくあるはず。<br /><br />なのにそれが配信されていないんじゃあ厳しいでしょ、という状況。<br />(これは日本の電子書籍業界にも言えるのだけど)</p>\r\n<p> </p>\r\n<p>しかもこの『ロング・グットバイ』、<br />サンプルを聞くと、<strong>かなりクセのある気障な声優さん</strong>が読み上げてます。</p>\r\n<p>個人的に想像している主人公のイメージと声が違うし、<br />これで一冊分聞こうとは思えなかったです…<br />（※いい声だとは思うのですが、オーディオブックで聴くには情報量が多すぎる。。）</p>\r\n<p><br />なるべく多くの人に聞いてもらえるよう、<br />癖のない声優さんを選ぶべきではないでしょうか？</p>\r\n<p> </p>\r\n<p>ちょっと話は脱線しますが、<br />冒頭に載せたnoteに対する反論エントリ。</p>\r\n<p><iframe class=\"embed-card embed-webcard\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\" title=\"間違いだらけ！日本でオーディオブックが流行らない本当の理由はこれ\" src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20200116222707\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\r\n<p>一部抜粋。（中身読んであげてください。）</p>\r\n<blockquote>\r\n<p>結論を言うと日本語にはアクセントがほとんどないから。</p>\r\n</blockquote>\r\n<p>個人的には、<br />オーディオブックは<br /><strong>演技やアクセントを極力抑えて読み上げてほしい派</strong>なので、<br />この意見は個人的に納得できませんでした。 （僕だけの意見かもしれませんが）</p>\r\n<p> あまりアクセントを強くつけられると、聞き辛いですし、<br />英語版のオーディオブックでさえも、どちらかというと淡々としたものが多いような。<br /><br /></p>\r\n<p> </p>\r\n<p><strong><span style=\"color: #d32f2f;\">値段・価格</span></strong>もそう。<br />村上春樹の英語音声版『1Q84』を見てみると、</p>\r\n<p>上中下とボリュームが大きいのはわかるけど、</p>\r\n<p><strong>一冊4900円</strong>って高すぎないですか？</p>\r\n<p> </p>\r\n<p>という感じで、<br />英語圏で山のようなライブラリーに安くアクセスできるのと比べると、<br />日本語版はかなりに貧弱。</p>\r\n<p> </p>\r\n<p>日本語で吹き込み直さないといけないハードルは<br />やはりそうとう大きいのかな～と。</p>\r\n<p> </p>\r\n<p><strong><em>出版社のガードが固いのか、</em></strong><br /><strong><em>ただ動きが遅いのか、</em></strong><br /><strong><em>あえてそういう戦略をとっているのか。</em></strong></p>\r\n<p>どれが原因かはわかりませんが、<br />「<strong>まず聞いてもらえるコンテンツを揃えてほしいな</strong>」と僕は思います。</p>\r\n<p> </p>\r\n<p><strong>audiobook.jp</strong>さんがサブスクサービスも含め頑張ってるので、<br />今後の発展に期待してます。</p>\r\n<p>  </p>\r\n<p>あと欧米では自己啓発系オーディオブックも人気があるけど、</p>\r\n<p>日本だと「意識高い系」と揶揄され胡散臭がられるので<br />残念ながらあまり伸びなさそうなイメージ。</p>\r\n<p> </p>\r\n<p><span style=\"color: #1464b3;\"><strong>視力が落ちてきて文字で読むのがつらい</strong>、という団塊世代</span>を狙って、<br />山崎豊子さんや司馬遼太郎さんの著作を音声化してみてはどうでしょうか？</p>\r\n<p> </p>\r\n<p>それとも時間がない若者に向けて、<strong>短編小説を細切れに配信</strong>するとか。</p>\r\n<p> </p>\r\n<p>「Scridb」の日本語版ような神サービスがあれば、日本でも流行るでしょう。</p>\r\n<p> </p>\r\n<h4> ポッドキャスト</h4>\r\n<p>Podcastについては、<br />ただ単に知名度がなさすぎるだけで、</p>\r\n<p><strong><span style=\"color: #d32f2f;\">\"無料で好きなジャンルのトークを聞ける\"</span><br />というのが広まればあっという間に人気になるはず</strong><strong>(願望含め)</strong>。</p>\r\n<p>   </p>\r\n<p>ブラジルなんかは騒音やアナウンスも騒がしいのに、<br />ポッドキャスト市場はなかなか大きいみたいだし。(ラテン語圏というのも大きいけど)</p>\r\n<p>ドイツでは「個人で出来るジャーナリズム」的な流行りをしているらしくて。</p>\r\n<p><br />日本には語るべきニッチで深いコンテンツが山ほどあるので、<br />各々に特化した番組があれば流行ると僕は確信してます。 </p>\r\n<p> </p>\r\n<p>コンテンツ不足はポッドキャストに関してもいえることで、<br />日本語の配信者がもっと増えなければ\"流行\"とまで言えるには程遠いかもしれません。<br /><br /></p>\r\n<p>最近は<strong><span style=\"color: #d32f2f;\">スマホアプリだけで配信できる</span></strong>ようになったので、<br />音声配信に興味のある方はぜひ試してみてはいかがでしょうか？ </p>\r\n<p><iframe class=\"embed-card embed-blogcard\" style=\"display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;\" title=\"ポッドキャスト配信アプリ「Anchor」を数ヶ月続けてみた感想 - 世界のねじを巻くブログ@世界一周\" src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nejimakiblog.com%2Fentry%2Fpodcast-anchor-review-app-android-ios\" frameborder=\"0\" scrolling=\"no\"></iframe><cite class=\"hatena-citation\"><a href=\"https://www.nejimakiblog.com/entry/podcast-anchor-review-app-android-ios\">www.nejimakiblog.com</a></cite></p>\r\n<p> </p>\r\n<p>ノイズキャンセリング機能付きのAirPodsやソニーのイヤホンも普及し<br />騒音の中でもしっかり声を聞けるようになったので、</p>\r\n<p><span style=\"font-size: 130%;\">みんなもっとオーディオブックやポッドキャスト聞こうぜ！</span></p>\r\n<p> というブログ記事でした。</p>\r\n<p> </p>\r\n<p style=\"margin: 0px 0px 1em; line-height: 2em; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;\"><strong style=\"font-weight: bold; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif;\">ポッドキャストやってます。<br /></strong><strong style=\"font-weight: bold;\">世界一周旅行や音楽・映画、ゲイライフについて熱く語る番組。</strong></p>\r\n<p style=\"margin: 0px 0px 1em; line-height: 2em; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;\">iPhoneで聴く</p>\r\n<div class=\"itunes-embed freezed itunes-kind-podcast\" style=\"padding: 0.8em 0.6em; border: 1px solid #dddddd; margin: 1em 0px; font-size: 13.68px; display: block; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;\"><a style=\"background: transparent; color: #789dae; overflow-wrap: break-word;\" href=\"https://podcasts.apple.com/jp/podcast/%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8-%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%AD%E3%81%98%E3%82%92%E5%B7%BB%E3%81%8F%E3%83%A9%E3%82%B8%E3%82%AA-%E3%82%B2%E3%82%A4%E3%81%AE%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E3%83%A9%E3%82%B8%E3%82%AA/id1409236261?uo=4&amp;at=10l8JW&amp;ct=hatenablog\" target=\"_blank\" rel=\"nofollow noopener\"><img class=\"itunes-embed-image\" style=\"border: 0px; max-width: 100px; float: left; margin-right: 15px;\" title=\"【世界一周】世界のねじを巻くラジオ【ゲイのねじまきラジオ】\" src=\"https://cdn.image.st-hatena.com/image/scale/5c625c8680e45f7fb2de1a0c97d50d99d1174343/enlarge=0;height=200;version=1;width=200/https%3A%2F%2Fis4-ssl.mzstatic.com%2Fimage%2Fthumb%2FPodcasts113%2Fv4%2Fde%2F7f%2F87%2Fde7f87cb-2ac9-1439-8d54-30c354447fce%2Fmza_463286486404532001.jpg%2F100x100bb.jpg\" alt=\"【世界一周】世界のねじを巻くラジオ【ゲイのねじまきラジオ】\" /></a>\r\n<div class=\"itunes-embed-info\">\r\n<p class=\"itunes-embed-title\" style=\"text-indent: 0px; margin: 0px 0px 0.3em; line-height: 2em; font-weight: bold;\"><a style=\"background: transparent; color: #789dae; overflow-wrap: break-word;\" href=\"https://podcasts.apple.com/jp/podcast/%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8-%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%AD%E3%81%98%E3%82%92%E5%B7%BB%E3%81%8F%E3%83%A9%E3%82%B8%E3%82%AA-%E3%82%B2%E3%82%A4%E3%81%AE%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E3%83%A9%E3%82%B8%E3%82%AA/id1409236261?uo=4&amp;at=10l8JW&amp;ct=hatenablog\" target=\"_blank\" rel=\"nofollow noopener\">【世界一周】世界のねじを巻くラジオ【ゲイのねじまきラジオ】</a></p>\r\n<ul style=\"padding: 0px; color: #566aa0; border: 2px solid #566aa0; margin: 0px;\">\r\n<li class=\"itunes-embed-artist\" style=\"list-style: none; margin: 3px 17px; line-height: 1.5;\">ねじまきラジオ</li>\r\n<li class=\"itunes-embed-genre\" style=\"list-style: none; margin: 3px 17px; line-height: 1.5;\">セクシャリティ</li>\r\n<li class=\"itunes-embed-price\" style=\"list-style: none; margin: 3px 17px; line-height: 1.5;\">¥0</li>\r\n<li class=\"itunes-embed-badge\" style=\"list-style: none; margin: 3px 17px; line-height: 1.5;\"><a style=\"background: transparent; color: #789dae; overflow-wrap: break-word;\" href=\"https://podcasts.apple.com/jp/podcast/%E4%B8%96%E7%95%8C%E4%B8%80%E5%91%A8-%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%AD%E3%81%98%E3%82%92%E5%B7%BB%E3%81%8F%E3%83%A9%E3%82%B8%E3%82%AA-%E3%82%B2%E3%82%A4%E3%81%AE%E3%81%AD%E3%81%98%E3%81%BE%E3%81%8D%E3%83%A9%E3%82%B8%E3%82%AA/id1409236261?uo=4&amp;at=10l8JW&amp;ct=hatenablog\" target=\"_blank\" rel=\"nofollow noopener\"><img style=\"border: 0px; max-width: 100%;\" src=\"https://cdn.blog.st-hatena.com/images/theme/itunes/itunes-badge-itunes@2x.png\" width=\"44px\" height=\"15px\" /></a></li>\r\n</ul>\r\n</div>\r\n</div>\r\n<p style=\"margin: 0px 0px 1em; line-height: 2em; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;\"><br />Spotifyで聴く：</p>\r\n<p style=\"margin: 0px 0px 1em; line-height: 2em; color: #454545; font-family: 游ゴシック, YuGothic, 'Yu Gothic', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', Meiryo, Helvetica, Arial, sans-serif; font-size: 15.2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; background-color: #ffffff;\"><a style=\"background: transparent; color: #789dae; overflow-wrap: break-word;\" href=\"https://open.spotify.com/show/6ComJ7U0Y0yJ9DM1eEt9jj\"><img class=\"\" style=\"border: 0px; max-width: 100%;\" title=\"スポティファイポッドキャストねじまきラジオ\" src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/p/popmusik3141/20191111/20191111194602.png\" alt=\"スポティファイポッドキャストねじまきラジオ\" /></a></p>"
+      }
+    ]
+  },
+  {
+    "username": "tyosuke2011",
+    "articles": [
+      {
+        "title": "カイジ 人生逆転ゲーム見た",
+        "link": "http://tyosuke.hatenablog.com/entry/2020/01/17/231159",
+        "pubDate": "Fri, 17 Jan 2020 23:11:59 +0900",
+        "description": "<p>金曜ロードSHOWで<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AB%A5%A4%A5%B8%20%BF%CD%C0%B8%B5%D5%C5%BE%A5%B2%A1%BC%A5%E0\">カイジ 人生逆転ゲーム</a>見た</p>\r\n<p>実写なのでギャグっぽく見えたがEカードで博打に勝ったシーンはよかった</p>\r\n<p>来週は<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AB%A5%A4%A5%B8\">カイジ</a>２やるみたいだ</p>\r\n<p> </p>"
+      },
+      {
+        "title": "ドラゴンクエストⅣをプレイするpart13",
+        "link": "http://tyosuke.hatenablog.com/entry/2020/01/17/195709",
+        "pubDate": "Fri, 17 Jan 2020 19:57:09 +0900",
+        "description": "<p><iframe class=\"embed-card embed-webcard\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\" title=\"ドラゴンクエストⅣをプレイするpart13\" src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nicovideo.jp%2Fwatch%2Fsm36239007%3Fplaylist%3DeyJpZCI6InZpZGVvX3dhdGNoX3BsYXlsaXN0X3VwbG9hZGVkIiwidXNlcklkIjo1MjUyMTcwOX0\" frameborder=\"0\" scrolling=\"no\"></iframe><cite class=\"hatena-citation\"><a href=\"https://www.nicovideo.jp/watch/sm36239007?playlist=eyJpZCI6InZpZGVvX3dhdGNoX3BsYXlsaXN0X3VwbG9hZGVkIiwidXNlcklkIjo1MjUyMTcwOX0\">www.nicovideo.jp</a></cite></p>\r\n<p>武器屋で働いて防具を買っておいた</p>\r\n<p>はじゃはでなかった</p>"
+      }
+    ]
+  },
+  {
+    "username": "nabetama",
+    "articles": []
+  },
+  {
+    "username": "st43",
+    "articles": []
+  },
+  {
+    "username": "murokaco",
+    "articles": []
+  },
+  {
+    "username": "htnma108",
+    "articles": []
+  },
+  {
+    "username": "mag4n",
+    "articles": []
+  },
+  {
+    "username": "sutatin",
+    "articles": []
+  },
+  {
+    "username": "hankai",
+    "articles": []
+  },
+  {
+    "username": "pochi-mk",
+    "articles": [
+      {
+        "title": "1月17日(金)の記録",
+        "link": "https://phd.hatenadiary.jp/entry/2020/01/17/210855",
+        "pubDate": "Fri, 17 Jan 2020 21:08:55 +0900",
+        "description": "\n<div class=\"section\">\n    <h3>1月17日(金)</h3>\n    <p>今日も相変わらず眠気に負けてしまった。昼まで眠たくて仕事が進まない。<br />\n午後からはなんとか調子を取り戻して、今日のタスクは順調に完了。<br />\n週末になったので、３Dプリンタ作業を効率よく片付けていくために、簡単にでもいいから計画を立てよう。やりたいことはいっぱいあるが、時間は潤沢にはない。</p>\n\n</div>"
+      },
+      {
+        "title": "1月16日(木)の記録",
+        "link": "https://phd.hatenadiary.jp/entry/2020/01/16/202503",
+        "pubDate": "Thu, 16 Jan 2020 20:25:03 +0900",
+        "description": "<h3>1月16日(木)</h3>\n<p>今日も午前中は全然ダメ。仕事はあまり進まず。</p>\n<p>午後になってからようやくスイッチが入り、15時くらいに作業中のタスクが完了した。これでひとまずは落ち着ける。</p>\n<p>とはいえ次の作業をさっさと始めないと、遅れを取り戻すためには必要だ。まだ残作業の全体像が把握できていないので、そこからだな。</p>"
+      }
+    ]
+  },
+  {
+    "username": "nkzsdy",
+    "articles": []
+  },
+  {
+    "username": "darux",
+    "articles": []
+  },
+  {
+    "username": "cloverWFFG",
+    "articles": []
+  },
+  {
+    "username": "shufflingpixie",
+    "articles": []
+  },
+  {
+    "username": "koonya",
+    "articles": []
+  },
+  {
+    "username": "hryshtk",
+    "articles": []
+  },
+  {
+    "username": "snowlong",
+    "articles": []
+  },
+  {
+    "username": "quodius",
+    "articles": []
+  },
+  {
+    "username": "ikioiamatte",
+    "articles": []
+  },
+  {
+    "username": "hryoichi",
+    "articles": []
+  },
+  {
+    "username": "yone-yama",
+    "articles": []
+  },
+  {
+    "username": "akiramaz",
+    "articles": []
+  },
+  {
+    "username": "whitz",
+    "articles": []
+  },
+  {
+    "username": "higed",
+    "articles": []
+  },
+  {
+    "username": "vndn",
+    "articles": []
+  },
+  {
+    "username": "ackintosh",
+    "articles": []
+  },
+  {
+    "username": "ikosin",
+    "articles": []
+  },
+  {
+    "username": "hayajo_77",
+    "articles": []
+  },
+  {
+    "username": "igatea",
+    "articles": []
+  },
+  {
+    "username": "motch1cm",
+    "articles": []
+  },
+  {
+    "username": "kagerou_ts",
+    "articles": []
+  },
+  {
+    "username": "fuyu77",
+    "articles": []
+  },
+  {
+    "username": "strozw",
+    "articles": []
+  },
+  {
+    "username": "takume0826",
+    "articles": []
+  },
+  {
+    "username": "ladydpy",
+    "articles": []
+  },
+  {
+    "username": "sprilzer",
+    "articles": []
+  },
+  {
+    "username": "bardiche25",
+    "articles": []
+  },
+  {
+    "username": "tuki0918",
+    "articles": []
+  },
+  {
+    "username": "dnsystem",
+    "articles": []
+  },
+  {
+    "username": "ymrl",
+    "articles": []
+  },
+  {
+    "username": "mohno",
+    "articles": []
+  },
+  {
+    "username": "surume000",
+    "articles": []
+  },
+  {
+    "username": "rskull",
+    "articles": []
+  },
+  {
+    "username": "shisoso",
+    "articles": []
+  },
+  {
+    "username": "markIII",
+    "articles": []
+  },
+  {
+    "username": "seita05",
+    "articles": []
+  },
+  {
+    "username": "bouzuya",
+    "articles": [
+      {
+        "title": "『本と鍵の季節』を読んだ",
+        "link": "https://bouzuya.hatenablog.com/entry/2020/01/17/215335",
+        "pubDate": "Fri, 17 Jan 2020 21:53:35 +0900",
+        "description": "<p>朝活 11 日目。実践 Rust 入門 12 章。 <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/FFI\">FFI</a> 。流し読みしている。明日でとりあえず一周できそう。</p>\n\n<hr />\n\n<p>『本と鍵の季節』を読んだ。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C6%FC%BE%EF%A4%CE%C6%E6\">日常の謎</a>。ひさしぶりのミステリー。</p>\n\n<hr />\n\n<p>Oxygen Not Included コロニー 13 サイクル 694 。ソーラー発電の敷き詰めはひとまず完了した。火山にチャレンジしたい。</p>\n"
+      },
+      {
+        "title": "朝活・ Oxygen Not Included ・beater 8.0.2",
+        "link": "https://bouzuya.hatenablog.com/entry/2020/01/16/223508",
+        "pubDate": "Thu, 16 Jan 2020 22:35:08 +0900",
+        "description": "<p><a href=\"https://github.com/bouzuya/beater\">bouzuya/beater</a> 8.0.2 をつくった。依存パッケージの更新のみ。</p>\n\n<p><a href=\"https://github.com/bouzuya/beater-matcher\">bouzuya/beater-matcher</a> 0.1.1 をつくった。依存パッケージの更新のみ。</p>\n\n<p><a href=\"https://github.com/conventional-changelog/conventional-changelog\">conventional-changelog/conventional-changelog</a> を試している。思った感じの <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/CHANGELOG\">CHANGELOG</a> にならない。もうすこし試す。</p>\n\n<hr />\n\n<p>Oxygen Not Included コロニー 13 サイクル 690 。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%E9%A1%BC%A5%D1%A5%CD%A5%EB\">ソーラーパネル</a>の敷き詰め途中。</p>\n\n<hr />\n\n<p>朝活 10 日目。実践 Rust 入門 11 章。 <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/diesel\">diesel</a> 。どこに何が生成されているのか分かりづらい。</p>\n\n<p>ここまでのペースで進めるとあと 6 日くらいで終わる。土曜日で一気に終わらせようかな。</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "sezemi",
+    "articles": []
+  },
+  {
+    "username": "undershibadog",
+    "articles": []
+  },
+  {
+    "username": "hiroseryo",
+    "articles": []
+  },
+  {
+    "username": "guldeen",
+    "articles": []
+  },
+  {
+    "username": "tksuuu",
+    "articles": []
+  },
+  {
+    "username": "tech0403",
+    "articles": []
+  },
+  {
+    "username": "kane-bun",
+    "articles": []
+  },
+  {
+    "username": "rgfx",
+    "articles": []
+  },
+  {
+    "username": "nishitki",
+    "articles": []
+  },
+  {
+    "username": "worpe",
+    "articles": []
+  },
+  {
+    "username": "beatdjam",
+    "articles": []
+  },
+  {
+    "username": "ImpureSilver11",
+    "articles": []
+  },
+  {
+    "username": "ytsk",
+    "articles": []
+  },
+  {
+    "username": "advblog",
+    "articles": []
+  },
+  {
+    "username": "nitamago_monster",
+    "articles": []
+  },
+  {
+    "username": "Tmolos",
+    "articles": []
+  },
+  {
+    "username": "ant_mugi",
+    "articles": []
+  },
+  {
+    "username": "tatatayou",
+    "articles": []
+  },
+  {
+    "username": "cad-san",
+    "articles": []
+  },
+  {
+    "username": "questbeat",
+    "articles": []
+  },
+  {
+    "username": "Maricom",
+    "articles": []
+  },
+  {
+    "username": "gmkzmrn",
+    "articles": []
+  },
+  {
+    "username": "poad1010",
+    "articles": []
+  },
+  {
+    "username": "hasunuma0613",
+    "articles": []
+  },
+  {
+    "username": "slme9364",
+    "articles": []
+  },
+  {
+    "username": "tpircs",
+    "articles": []
+  },
+  {
+    "username": "guemuru",
+    "articles": []
+  },
+  {
+    "username": "akulog",
+    "articles": []
+  },
+  {
+    "username": "kkana",
+    "articles": []
+  },
+  {
+    "username": "togusa5",
+    "articles": []
+  },
+  {
+    "username": "koogawa",
+    "articles": [
+      {
+        "title": "プログラミングでつまづいてきたこと（koogawa編）",
+        "link": "https://blog.koogawa.com/entry/2020/01/16/180000",
+        "pubDate": "Thu, 16 Jan 2020 18:00:00 +0900",
+        "description": "<p><iframe src=\"https://hatenablog-parts.com/embed?url=http%3A%2F%2Fsatoru-takeuchi.hatenablog.com%2Fentry%2F2020%2F01%2F16%2F014438\" title=\"プログラミングでつまづいてきたこと - 覚書\" class=\"embed-card embed-blogcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"http://satoru-takeuchi.hatenablog.com/entry/2020/01/16/014438\">satoru-takeuchi.hatenablog.com</a></cite></p>\n\n<p>こちらの記事がとても良かったので自分も書いてみます。主に<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/iOS\">iOS</a>プログラミングの内容です。</p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">1. 初めて <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Objective-C\">Objective-C</a> をさわったとき [NSArray array〜] で初期化した配列をスコープの外で参照したら落ちる理由がわからなかった（27歳頃）。それまでは<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/PHP\">PHP</a>がメインだったのでretain, autorelease をちゃんと理解するまで時間がかかった</p>&mdash; Kosuke Ogawa🌧️アル エンジニア (@koogawa) <a href=\"https://twitter.com/koogawa/status/1217651606524579840?ref_src=twsrc%5Etfw\">2020年1月16日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">2. <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/delegate\">delegate</a> の仕組みが理解できなかった。さらに blocks とか出てきて頭が混乱した（27歳頃）理解できるまで数ヶ月かかった気がする</p>&mdash; Kosuke Ogawa🌧️アル エンジニア (@koogawa) <a href=\"https://twitter.com/koogawa/status/1217651607602487296?ref_src=twsrc%5Etfw\">2020年1月16日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">3. UITableViewCellの再利用の仕組みがよくわからなかった（27歳頃）。テーブルをスクロールするとなぜ前に描画した画像が出てきてしまうのか理解できなかった。</p>&mdash; Kosuke Ogawa🌧️アル エンジニア (@koogawa) <a href=\"https://twitter.com/koogawa/status/1217651608651042816?ref_src=twsrc%5Etfw\">2020年1月16日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">4. Auto Layout が難しそうだった（避けていた）。（30歳頃）当時同じチームだった <a href=\"https://twitter.com/gonsee?ref_src=twsrc%5Etfw\">@gonsee</a> 先生にマンツーマンで教えてもらってようやく理解できた。Auto Layoutの勉強は実際に実装しているところを見せてもらうのが一番良いと思う</p>&mdash; Kosuke Ogawa🌧️アル エンジニア (@koogawa) <a href=\"https://twitter.com/koogawa/status/1217651610144231425?ref_src=twsrc%5Etfw\">2020年1月16日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">5. Swift を避けていた（31歳頃）。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/WWDC\">WWDC</a> 2014 で発表されてからもしばらくは<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Objective-C\">Objective-C</a>を愛用していたと思う。無職期間中に1ヶ月ぐらいしっかり時間を取って勉強したけど、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JSON\">JSON</a>のパースで発狂しかけたのを覚えている（勉強のため、あえてSwiftyJSONとかは使わなかった）</p>&mdash; Kosuke Ogawa🌧️アル エンジニア (@koogawa) <a href=\"https://twitter.com/koogawa/status/1217651611197046784?ref_src=twsrc%5Etfw\">2020年1月16日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p>元記事の <a href=\"http://blog.hatena.ne.jp/satoru_takeuchi/\">id:satoru_takeuchi</a> さんもおっしゃっていますが、初心者に暴言を吐いてくる人、マウント取ってくる人は無視して良いと思います😇</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "asanoshikiishi",
+    "articles": []
+  },
+  {
+    "username": "whitecrane89200",
+    "articles": []
+  },
+  {
+    "username": "moruritawa",
+    "articles": []
+  },
+  {
+    "username": "ocha39",
+    "articles": []
+  },
+  {
+    "username": "hem6",
+    "articles": []
+  },
+  {
+    "username": "sshayashi0208",
+    "articles": []
+  },
+  {
+    "username": "viperbjpn",
+    "articles": []
+  },
+  {
+    "username": "sonota88",
+    "articles": []
+  },
+  {
+    "username": "kazuya030",
+    "articles": []
+  },
+  {
+    "username": "hiroki23",
+    "articles": []
+  },
+  {
+    "username": "healthyprog",
+    "articles": []
+  },
+  {
+    "username": "nekota51",
+    "articles": []
+  },
+  {
+    "username": "matsuoshi",
+    "articles": []
+  },
+  {
+    "username": "voidy21",
+    "articles": []
+  },
+  {
+    "username": "hkr_I",
+    "articles": []
+  },
+  {
+    "username": "crowkun",
+    "articles": [
+      {
+        "title": "会社を辞めてフリーランスになるときの周りの反応と心構え【保守的な人たちバスター】",
+        "link": "https://freelancer-tkb.hatenadiary.com/entry/reaction-mind",
+        "pubDate": "Fri, 17 Jan 2020 12:17:45 +0900",
+        "description": "<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/c/crowkun/20200117/20200117102317.jpg\" alt=\"f:id:crowkun:20200117102317j:plain\" title=\"f:id:crowkun:20200117102317j:plain\" class=\"hatena-fotolife\" itemprop=\"image\" /></p>\r\n<blockquote>\r\n<p>「会社を辞めて<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D5%A5%EA%A1%BC%A5%E9%A5%F3%A5%B9\">フリーランス</a>になると言ったら、家族や親・同僚・上司は何て言うだろう？皆から反対されるだろうか？そこで心が折れたりしないだろうか？」</p>\r\n</blockquote>\r\n<p>僕の体験談を記します。</p>\r\n\n\r\n<p> </p>\r\n<ul class=\"table-of-contents\">\n    <li><a href=\"#反応のパターンは2種類\">反応のパターンは2種類</a><ul>\n            <li><a href=\"#サラリーマンマインドな人たち\">サラリーマンマインドな人たち</a></li>\n            <li><a href=\"#サラリーマンマインドでない人たち\">サラリーマンマインドでない人たち</a></li>\n        </ul>\n    </li>\n    <li><a href=\"#だいたい言われることは固定化されている\">だいたい言われることは固定化されている</a><ul>\n            <li><a href=\"#言われること\">言われること</a></li>\n            <li><a href=\"#対応\">対応</a></li>\n        </ul>\n    </li>\n</ul>\r\n<p> </p>\r\n<p> </p>\r\n<p>少しでも会社を辞めようと思ったことがある方は周りの反応を想像したと思います。</p>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D5%A5%EA%A1%BC%A5%E9%A5%F3%A5%B9\">フリーランス</a>に限らず転職の際もですが、周りの反応が気になります。</p>\r\n<p>周りの反応が全くないなら悩まなくていいんですけどね。</p>\r\n<p> </p>\r\n<p> </p>\r\n<h3 id=\"反応のパターンは2種類\">反応のパターンは2種類</h3>\r\n<h4 id=\"サラリーマンマインドな人たち\">サラリーマンマインドな人たち</h4>\r\n<p>サラリーマンマインドの人とは、サラリーマンやサラリーマン家庭で育って、その他の価値観を考えたことの無い人たちのことを言います（今考えた）。</p>\r\n<p>彼らは必ず否定的な意見をしてきます。</p>\r\n<p><span style=\"font-size: 150%; color: #ff0000;\"><strong>彼らはサラリーマンという立場が最強だと思っています。</strong></span></p>\r\n<p> </p>\r\n<p>世の中の大半が<span style=\"font-size: 150%;\"><strong>保守的な「サラリーマンマインド」</strong></span>の持ち主であることを痛感しました。</p>\r\n<p> </p>\r\n<h4 id=\"サラリーマンマインドでない人たち\">サラリーマンマインドでない人たち</h4>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B8%C4%BF%CD%BB%F6%B6%C8%BC%E7\">個人事業主</a>をやっている友人、資産運用に積極的な友人たちは、</p>\r\n<p><span style=\"font-size: 150%; color: #0000cc;\"><strong>「思い切ったね！いいじゃん！やっちゃいなよ！」</strong></span></p>\r\n<p>みたいな反応でした。</p>\r\n<p> </p>\r\n<p>ほぼ全員から否定してくる中で、肯定的な意見をしてくれるのは、</p>\r\n<p><strong>「サラリーマン」という働き方に疑問を持って、自ら行動を起こしている人たち</strong>でした。</p>\r\n<p>本当に有難い。</p>\r\n<p> </p>\r\n<p>今後もサラリーマンマインドでない人たちと深く関わっていきたいと思います！</p>\r\n<p> </p>\r\n<h3 id=\"だいたい言われることは固定化されている\">だいたい言われることは固定化されている</h3>\r\n<p>みんなだいたい言うこと決まっています。</p>\r\n<p>本気で心配してくれる人でも、そうでない人でも、あまり変わりません。</p>\r\n<p> </p>\r\n<h4 id=\"言われること\">言われること</h4>\r\n<ul>\r\n<li>いつ辞めるの？</li>\r\n<li>何で辞めるの？</li>\r\n<li>何をするの？</li>\r\n<li>収入は見込めるの？</li>\r\n<li>家族はなんて言っているの？</li>\r\n<li>社内異動はできないの？</li>\r\n<li>会社を利用してしがみ付いていればいいじゃん！</li>\r\n<li>今の仕事どうするの？（→どうでもいい）</li>\r\n<li>会社を辞めたら健康保険とか年金とかうんぬん…（→分かってるわっ！）</li>\r\n</ul>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"対応\">対応</h4>\r\n<p>これらについて回答を考えておけば、言いくるめられることもないでしょう。</p>\r\n<p>逆に言うと、上記がはっきりしていないうちは相手に納得はしてもらえません。</p>\r\n<p>納得してもらう必要はありませんが、スムーズに事を進めるために</p>\r\n<p>回答を用意しておきいましょう！</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p>ではまた！</p>"
+      },
+      {
+        "title": "【資産紹介】色々経験して結局長期投資に落ち着いた話",
+        "link": "https://freelancer-tkb.hatenadiary.com/entry/portfolio",
+        "pubDate": "Thu, 16 Jan 2020 16:49:12 +0900",
+        "description": "<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/c/crowkun/20200116/20200116151621.jpg\" alt=\"f:id:crowkun:20200116151621j:plain\" title=\"f:id:crowkun:20200116151621j:plain\" class=\"hatena-fotolife\" itemprop=\"image\" /></p>\r\n<p><br />株やFX、暗号通貨、NISA、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/iDeco\">iDeco</a>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B8%C4%BF%CD%C7%AF%B6%E2\">個人年金</a>、生命保険・・・</p>\r\n<p>多くの資産運用方法あるけど結局何をやればいいの？</p>\r\n<p>損はしたくないけどもったいない気がするから何かやりたい！</p>\r\n<p> </p>\r\n<p>僕の周りはこんな人にあふれています。</p>\r\n<p> </p>\r\n<p>株やFX、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D3%A5%C3%A5%C8%A5%B3%A5%A4%A5%F3\">ビットコイン</a>というと借金を背負うとか金の亡者だとかとてもイメージが悪いですね。</p>\r\n<p>一方でNISAや生命保険は良いイメージがある。</p>\r\n<p> </p>\r\n<p>なんででしょう？<strong>同じ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B6%E2%CD%BB%BE%A6%C9%CA\">金融商品</a></strong>なんですけどね(^^;</p>\r\n<p> </p>\r\n<p>10年近く色んな投資を行ってきた僕の<strong>今の資産比率</strong><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DD%A1%BC%A5%C8%A5%D5%A5%A9%A5%EA%A5%AA\">ポートフォリオ</a>と<strong>なぜそのようにしているか</strong>を解説します。</p>\r\n<p> </p>\r\n\n\r\n<p> </p>\r\n<ul class=\"table-of-contents\">\n    <li><a href=\"#僕の資産公開\">僕の資産公開</a><ul>\n            <li><a href=\"#現預金\">現預金</a></li>\n            <li><a href=\"#株式\">株式</a></li>\n            <li><a href=\"#投資信託ロボアド\">投資信託（ロボアド）</a></li>\n            <li><a href=\"#投資信託米国投信\">投資信託（米国投信）</a></li>\n            <li><a href=\"#FX\">FX</a></li>\n            <li><a href=\"#保険\">保険</a></li>\n            <li><a href=\"#最後に暗号通貨について\">最後に暗号通貨について</a></li>\n        </ul>\n    </li>\n</ul>\r\n<p> </p>\r\n<p> </p>\r\n<h3 id=\"僕の資産公開\">僕の資産公開</h3>\r\n<p>まずは資産の比率をご確認ください。正確には「我が家の資産」です。</p>\r\n<p> </p>\r\n<p> </p>\r\n<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/c/crowkun/20200116/20200116154513.png\" alt=\"f:id:crowkun:20200116154513p:plain\" title=\"f:id:crowkun:20200116154513p:plain\" class=\"hatena-fotolife\" itemprop=\"image\" /></p>\r\n<p> </p>\r\n<h4 id=\"現預金\">現預金</h4>\r\n<p>「現預金」が48.6%と約半数を占めています。</p>\r\n<p>この現預金の中には外貨が8%ほど含まれています。</p>\r\n<p>具体的には<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%E1%A5%EA\">アメリ</a>カ・ドルと<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AA%A1%BC%A5%B9%A5%C8%A5%E9%A5%EA%A5%A2%A1%A6%A5%C9%A5%EB\">オーストラリア・ドル</a>です。</p>\r\n<p><strong>わずかな<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B6%E2%CD%F8\">金利</a>目的と日本円比率を下げるため</strong>です。</p>\r\n<p> </p>\r\n<h4 id=\"株式\">株式</h4>\r\n<p>「株式」は5%。</p>\r\n<p>国内個別現物株を5つ×100株ほど持っています。</p>\r\n<p>以下の理由のため株式比率は徐々に下げています。</p>\r\n<ul>\r\n<li>日本の未来って明るくない</li>\r\n<li>個別株はやっぱり難しい</li>\r\n</ul>\r\n<p> </p>\r\n<p>低成長国の日本に投資するよりは、<strong><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%E1%A5%EA\">アメリ</a>カや<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BF%B7%B6%BD%B9%F1\">新興国</a>、最低でも欧州株にでも投資したい</strong>ところです。</p>\r\n<p> </p>\r\n<p>個別株投資もいいですがかなり奥が深いし米国経済や為替に大きく左右されるし考えることが多すぎるんですよね。</p>\r\n<p>上手くいけば大きく稼げるかもしれませんが、</p>\r\n<p><strong>時間対効果を考えたら他の投資に劣る</strong>とも勝らないので。</p>\r\n<p> </p>\r\n<p>取っ付き易さから始めは株式比率がかなり高かったのですが、</p>\r\n<p>儲けたものから利益確定して、</p>\r\n<p>マイナスなものは、現金があるうちは塩漬けにしつつ配当と優待だけ貰いつつな感じです。</p>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"投資信託ロボアド\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C5%EA%BB%F1%BF%AE%C2%F7\">投資信託</a>（ロボアド）</h4>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C5%EA%BB%F1%BF%AE%C2%F7\">投資信託</a>は徐々に増やして24.8%で約1/4を占めるになりました。</p>\r\n<p>このうち12%程度はロボアドバイザーのWelthnavi for SBIです。</p>\r\n<p>Welthnaviは以下の点でとても優秀です。</p>\r\n<p> </p>\r\n<ul>\r\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CA%AC%BB%B6%C5%EA%BB%F1\">分散投資</a>ができる（時間分散、地域分散、商品分散）</li>\r\n<li>楽</li>\r\n</ul>\r\n<p> </p>\r\n<p>入金すれば簡単に<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CA%AC%BB%B6%C5%EA%BB%F1\">分散投資</a>ができる優れものです。</p>\r\n<p>勝手に最適な比率で資産形成できるので、</p>\r\n<p><span style=\"color: #ff0000; font-size: 150%;\"><strong>投資がよくわからんという人には圧倒的にオススメ</strong></span>です。</p>\r\n<p> </p>\r\n<p>ただ僕は以下の2点が理由で増やさないことにしました。</p>\r\n<ul>\r\n<li><strong>NISA非課税枠が使えない</strong></li>\r\n<li><strong>手数料が年1.0%とめちゃ高い</strong></li>\r\n</ul>\r\n<p> </p>\r\n<p>1%未満の投資リターンも欲しい僕にとっては1%の手数料はかなり高なと感じます。</p>\r\n<p> </p>\r\n<p>ただ、始めた時期が良かったので、<span style=\"font-size: 150%;\"><strong>現時点で約15%の利益が出ている</strong></span>のは非常にありがたい！</p>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"投資信託米国投信\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C5%EA%BB%F1%BF%AE%C2%F7\">投資信託</a>（米国投信）</h4>\r\n<p>残りの13%程度は<strong>米国関係の投信</strong>に突っ込んでいます。</p>\r\n<p>今後も増やしていく予定です。</p>\r\n<p> </p>\r\n<p>今後も<span style=\"font-size: 150%;\"><strong>引き続き伸びる米国経済</strong></span>に投資しない理由はありません。</p>\r\n<p> </p>\r\n<p>実はWelthnaviも3割以上が米国株(VTI)となっています。</p>\r\n<p> </p>\r\n<p>一般的な米国株インデックスファンドであれば、Welthnaviに比べて以下のメリットがあります。</p>\r\n<ul>\r\n<li><span style=\"font-size: 150%;\"><strong>手数料0.15%と非常に低い</strong></span></li>\r\n<li><span style=\"font-size: 150%;\"><strong>非課税枠(積立NISA、ジュニアNISA)が使える</strong></span></li>\r\n</ul>\r\n<p> </p>\r\n<p> </p>\r\n<p>買うべきは<strong>「全米株式インデックスファンド」</strong>をオススメします。</p>\r\n<p>積立NISA、ジュニアNISAを全力で突っ込んでいます。</p>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"FX\">FX</h4>\r\n<p>FXは10.2%となっていますが半分は日本円で、</p>\r\n<p>FXの口座に入っているだけです。</p>\r\n<p> </p>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%E1%A5%EA\">アメリ</a>カドル/円、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C6%EE%A5%A2%A5%D5%A5%EA%A5%AB%A5%E9%A5%F3%A5%C9\">南アフリカランド</a>/円に、</p>\r\n<p>下がったら買い増し、下がったら買い増しを繰り返して</p>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B9%A5%EF%A5%C3%A5%D7\">スワップ</a>狙いでやっています。</p>\r\n<p> </p>\r\n<p><span style=\"font-size: 150%;\"><strong>決して無理をしない</strong></span>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%EC%A5%D0%A5%EC%A5%C3%A5%B8\">レバレッジ</a>2~4倍ぐらいです。</p>\r\n<p>日本円を現金で持っていても増えないので。</p>\r\n<p><strong>ほぼ外貨預金</strong>です。</p>\r\n<p> </p>\r\n<p>過去にはスイング、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C7%A5%A4%A5%C8%A5%EC\">デイトレ</a>、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B9%A5%AD%A5%E3%A5%EB%A5%D4%A5%F3%A5%B0\">スキャルピング</a>もやっていましたが、</p>\r\n<p>不確定要素が大きく安定して稼げませんでした。</p>\r\n<p>それどころか<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%ED%A5%B9%A5%AB%A5%C3%A5%C8\">ロスカット</a>を食らって大きく負けました・・・</p>\r\n<p>苦い思い出です(´・ω・｀)</p>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"保険\">保険</h4>\r\n<p>米ドル建て生命保険に入っています。比率は11.3%。</p>\r\n<p>正直突っ込みすぎました。</p>\r\n<p>年間2%強が安定して増加する謳い文句に乗せられてしまいました。</p>\r\n<p>※外貨建てなので為替変動により増加幅は変化します。</p>\r\n<p> </p>\r\n<p>あと7年ほど待たなければ元本回収できないので塩漬け状態。</p>\r\n<p> </p>\r\n<p>反省(´・ω・｀)</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<h4 id=\"最後に暗号通貨について\">最後に暗号通貨について</h4>\r\n<p>2017年末の暗号通貨バブルに乗せられて一瞬で利益をかすめ取り、</p>\r\n<p>僅かですが恩恵に預かりました(^▽^)/</p>\r\n<p>※確定申告しましたよ！</p>\r\n<p> </p>\r\n<p>現在はというと、かなり変動しているみたいですね。</p>\r\n<p> </p>\r\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B6%E2%CD%F8\">金利</a>もなく今後どうなるか全く誰も分からないので、</p>\r\n<p>多少資産移すのは良いとしても今はギャンブルになりがちなので</p>\r\n<p>現時点では静観しています。</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p>以上、我が家の資産紹介でした。</p>\r\n<p>基本的には米国株もしくは世界株への長期投資が手堅いです。</p>\r\n<p>これは僕個人の意見ではなく統計がそう示しています。</p>\r\n<p>投資に興味を持ち、楽しみながら資産形成してみませんか？</p>\r\n<p> </p>\r\n<p>ではまた！</p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>\r\n<p> </p>"
+      }
+    ]
+  },
+  {
+    "username": "gonta616",
+    "articles": []
+  },
+  {
+    "username": "takaboujp1122",
+    "articles": []
+  },
+  {
+    "username": "kirine",
+    "articles": []
+  },
+  {
+    "username": "takanotume24",
+    "articles": []
+  },
+  {
+    "username": "uesima",
+    "articles": []
+  },
+  {
+    "username": "hirokts",
+    "articles": []
+  },
+  {
+    "username": "notio",
+    "articles": []
+  },
+  {
+    "username": "Ioannes",
+    "articles": []
+  },
+  {
+    "username": "kinokotv",
+    "articles": []
+  },
+  {
+    "username": "roirrawedoc",
+    "articles": []
+  },
+  {
+    "username": "hattake",
+    "articles": []
+  },
+  {
+    "username": "thesecret3",
+    "articles": []
+  },
+  {
+    "username": "Hiro_Matsuno",
+    "articles": [
+      {
+        "title": "最近みんなハッカソンに燃え尽きる原因がわかったような気がする。",
+        "link": "https://hiro-matsuno.hatenablog.com/entry/2020/01/17/213124",
+        "pubDate": "Fri, 17 Jan 2020 21:31:24 +0900",
+        "description": "<p>ども。<br /><br />今日ついに頭に来ること起きてました。<br />OneJapanHackthonTokaiさんに期待していたのですが。<br />残念なことが起きてしまいました。<br />今日の昼にハンズオンのメール送るやついるか💢。<br />えぇ加減にしてもらわないと今度俺の身が危なくなるわ。<br />正直唖然としただけでなく社会人のモラルを見られそうになりましたよ。<br />マジで焦った。<br />昼休みだから大丈夫だろうと思ってもらっては困る。<br />パン食や弁当持ってきている人間は自席で食べてるんだぞ。<br />周りの目のやり場にマジで困った。<br /><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3\">ハッカソン</a>も<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B7%A5%D3%A5%C3%A5%AF\">シビック</a>テックもやりたいので今の会社に入ったからマジで困る。<br />俺も仕事はしたいし勉強もしたいし<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A5%BD%A5%F3\">ハッカソン</a>も行きたいしやりたいし。<br />これでは俺の面子潰れちゃいます。<br />これじゃぁ会社で目のやり場に困るために仕事やりながら飯食うことになりしまいには燃え尽きちゃいますよ。<br />社会人参加者の目線ももっと考えてください。<br /><br />マジで申し訳ないけどうえぽん学校にOneJapanHackathonTokai事務局の皆さんに入学していただきたいと思います。<br />うえぽんさん誠に申し訳ないがビシバシ教育してやってください。<br /><br />今日のあれはちょっとまずい。<br />多分見て気がついてしまってると思いますけど完全的に<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D5%A5%A1%A5%B7%A5%EA%A5%C6%A1%BC%A5%B7%A5%E7%A5%F3\">ファシリテーション</a>失敗ですわ。<br />社会人参加者としてこれほど怖いことはない。<br />社会人の昼の食事中ほど一番やばいものはないですから💦。</p>"
+      },
+      {
+        "title": "ほぼ毎日更新してる。それだけ新しいことが一杯なので楽しい。",
+        "link": "https://hiro-matsuno.hatenablog.com/entry/2020/01/16/204328",
+        "pubDate": "Thu, 16 Jan 2020 20:43:28 +0900",
+        "description": "<p>ども。<br /><br />家では呆れることがいっぱいなんですが。<br />本業は大分わかるようになってきてもっと仕事をしたいと思うのですが。<br />実は本当の自分の身体の状況今の職場には何も語ってません。<br />残業もしたいんだけど。<br />身体がついてこない。<br />肝臓くんがもたないし免疫が戻らないし顔を見たら黄疸も少し出てそう。<br />焦り始めてます。</p>\r\n<p>手はいくつかあるみたいなので相談に乗ってもらおうかなぁと思っています。<br />以前は自宅で夜間仕事してましたから。<br /><br />でも、なんとかしないといけないな。<br />時間内に終えることを考えたいのだけど仕事もしたい。<br />うーん。<br />悩みが多い。<br /><br /></p>"
+      }
+    ]
+  },
+  {
+    "username": "crexist",
+    "articles": []
+  },
+  {
+    "username": "toriirot",
+    "articles": []
+  },
+  {
+    "username": "color_change",
+    "articles": []
+  },
+  {
+    "username": "uk-ar",
+    "articles": []
+  },
+  {
+    "username": "webmarket",
+    "articles": [
+      {
+        "title": "【マーケティング戦略】STPとそのポイントを解説！",
+        "link": "https://webmarket.hatenablog.com/entry/2020/01/17/032330",
+        "pubDate": "Fri, 17 Jan 2020 03:23:30 +0900",
+        "description": "<p style=\"box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.75; word-break: break-word; hyphens: auto;\">皆さんにとって「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>」とは何でしょうか？</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">実はこの言葉は抽象的に使われることが多く、人によって広告活用だったり企業WEBサイトだったりと認識はバラバラです。しかしいずれも<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>として正解です。なぜなら、ピーター・<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C9%A5%E9%A5%C3%A5%AC%A1%BC\">ドラッガー</a>によれば<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>とは「<strong style=\"box-sizing: border-box; font-weight: bold;\">顧客から始まるビジネス思考</strong>」と定義されています。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">顧客から始まる～ とはつまり、顧客視点に立って趣味趣向やニーズを把握して、戦略を立てるということです。さらに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C9%A5%E9%A5%C3%A5%AC%A1%BC\">ドラッガー</a>はこうも言っています。</p>\r\n<blockquote style=\"box-sizing: border-box; margin: 30px 0px 35px; padding: 20px; position: relative; text-align: center; border-radius: 5px; background-color: #f4f8f9;\"> \r\n<p style=\"box-sizing: border-box; margin: 0px 0px 20px; line-height: 1.75; word-break: break-word; hyphens: auto; display: inline;\">ビジネスにおいて価値を生み出す活動は、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>と<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A4%A5%CE%A5%D9%A1%BC%A5%B7%A5%E7%A5%F3\">イノベーション</a>の2つだけで、その他はすべてコストである</p>\r\n </blockquote>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>は企業活動の中でもかなり重要な位置にあり、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を徹底していれば販売努力は不要とさえ断言しています。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">確かに、最近では<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>に力を入れることで営業活動を省略化して、効率良くビジネスの成功を収めている会社が増えています。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">弊社リードプラスもテレマや<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%BB%A5%DF\">セミ</a>ナー活動、展示会などのアウトバウンド主体の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>は一切行っておらず、<a href=\"https://www.leadplus.net/inbound-marketing\" style=\"box-sizing: border-box; background-color: transparent; color: #1977b5; transition: color 0.4s ease 0s; text-decoration: none;\">インバウンドマーケティング</a>のみを実践しています。ほとんどのお客様が弊社のWebサイトをしっかりとご確認いただいているため、昔のような会社紹介から営業活動を開始することは少なくなりました。感覚的には従来型の営業活動の60%近くがWebサイトに置き換えられて省略されています。つまりインバウンド<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>のおかげで受注までのサイクルが極端に短くなっています。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">もちろん、会社が扱う商品やサービスによっては営業を配置しなければビジネスが成り立たないというケースも多々あります。ただし、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を徹底すれば、これまでの営業活動とはまた違った形でビジネスを形成できるはずです。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">今回は、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>とは何か？そのポイントについて解説します。 </p>\r\n<h2 id=\"toc-0\" style=\"box-sizing: border-box; margin: 30px -50px 40px; font-weight: bold; font-size: 26px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #ffffff; text-align: left; padding: 10px 40px; background-color: #7e7e7e; border-left: 6px solid #717171;\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>の基本</h2>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>の基本としては「STP」と「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%A5%DF%A5%C3%A5%AF%A5%B9\">マーケティングミックス</a>(4P)」がよく知られるところです。本稿では、STPについて細かく解説します。</p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\">STPとは？</h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">STPとは「<strong style=\"box-sizing: border-box; font-weight: bold;\">セグメンテーション</strong>」「<strong style=\"box-sizing: border-box; font-weight: bold;\">ターゲティング</strong>」「<strong style=\"box-sizing: border-box; font-weight: bold;\">ポジショニング</strong>」の頭文字を取った言葉で、それぞれ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を設計する上で大切なポイントです。</p>\r\n<h4 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; padding-left: 12px; padding-bottom: 0px; border-left: 5px solid #333333;\">セグメンテーション</h4>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">最初のセグメンテーションは「市場を細分化すること」です。市場は一つの塊として捉えられがちですが、実際は複数のグループが寄り集まって形成されています。たとえば<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B5%A5%D7%A5%EA%A5%E1%A5%F3%A5%C8\">サプリメント</a>市場においては「健康になりたりい」「ダイエットしたい」「何らかの症状を緩和したい」など様々なニーズが入り混じっています。さらに老若男女が購入する商品であり、地域によっても購入の特長が出やすいものでしょう。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">こうした市場全体を相手に製品やサービスを売ろうとしても、恐らく失敗します。市場を細分化(セグメンテーション)して、適切なビジネ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B9%A5%B9%A5%DA\">ススペ</a>ースを決める。それがセグメンテーションです。 ますます多様化する<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B8%BD%C2%E5%BC%D2\">現代社</a>会においては必要不可欠な考え方と言えるでしょう。</p>\r\n<h4 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; padding-left: 12px; padding-bottom: 0px; border-left: 5px solid #333333;\">ターゲティング</h4>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">市場を細分化したのちはそれぞれのグループを評価して、適切なターゲットとなるグループを決定します。いわゆるターゲティングです。ターゲットを決める上では「無差別型」「差別型」「集中型」を意識するとよいでしょう。 </p>\r\n<h5 style=\"box-sizing: border-box; margin: 45px 0px 30px; font-weight: 500; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; border-left: 3px solid #333333; padding-left: 10px;\">・無差別型</h5>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">特定のターゲットを決めず不特定多数のユーザーに対して製品やサービスをアピールします。マス<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>の考え方と同じで、効率良く多くのユーザーに訴求できるのが利点です。しかし、ユーザーのニーズが多様化している現在において、このターゲティング方法でビジネスの最終的な目標である「売上」に繋げることは難しいでしょう。</p>\r\n<h5 style=\"box-sizing: border-box; margin: 45px 0px 30px; font-weight: 500; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; border-left: 3px solid #333333; padding-left: 10px;\">・差別型</h5>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">複数のグループをターゲットとして、それぞれのグループのニーズに合致した製品やサービスを提供する方法です。非常に理に適ったターゲティングですが、グループごとに異なる<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>が必要なためコストは増大します。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B7%D0%B1%C4%BB%F1%B8%BB\">経営資源</a>が豊富な会社でないと実行困難でしょう。 </p>\r\n<h5 style=\"box-sizing: border-box; margin: 45px 0px 30px; font-weight: 500; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; border-left: 3px solid #333333; padding-left: 10px;\">・集中型</h5>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">1つ～3つ程度のグループをターゲットとして、そのグループのニーズを満たすために<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B7%D0%B1%C4%BB%F1%B8%BB\">経営資源</a>を集中させる方法です。広範囲に製品やサービスを訴求できないものの、特定のグループへの理解度が高くなるためその中で高いシェアを獲得できる可能性があります。中小企業など、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B7%D0%B1%C4%BB%F1%B8%BB\">経営資源</a>が限られている会社に適しています。</p>\r\n<h4 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 18px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; padding-left: 12px; padding-bottom: 0px; border-left: 5px solid #333333;\">ポジショニング</h4>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">最後にポジショニングは、「ユーザーのマインド(心)の中に、どのようにブランドを位置付けたいか」を設計する<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>です。市場を細分化しターゲットとなるグループを決定したら、そのグループにおいて自社ブランドをどの位置に置くべきかを明確にします。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">ブランドとはユーザーのマインドが自然と形成していくものと捉えられがちです。しかし、実際は会社側の働きかけによって形成されるケースがほとんどであり、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を展開する会社はそれを理解しなければなりません。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">ユーザーのマインドに任せたブランド形成は往々にして想像する位置とは別の方向に進み、競合に対して優位に立つことが難しくなります。対して自社ブランドの位置を明確にしておけば、ブランドを形成するための取り組みを精力的に行えます。思い通りのブランドポジションを確立するためには、「重要性」「独自性」「優越性」を意識することが大切です。 </p>\r\n<div class=\"Row Row-RelatedPosts\" style=\"box-sizing: border-box; align-content: flex-start; align-items: flex-start; display: flex; flex-wrap: wrap; margin: 30px -15px 0px; width: calc(100% + 30px); background-color: #f6f6f6; padding: 20px;\"> </div>\r\n<h2 id=\"toc-1\" style=\"box-sizing: border-box; margin: 60px -50px 40px; font-weight: bold; font-size: 26px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #ffffff; text-align: left; padding: 10px 40px; background-color: #7e7e7e; border-left: 6px solid #717171;\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>設計のポイント</h2>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">基本(STP)の解説が長くなりましたが、基本は何事においても大切です。基礎が無ければその上には何も積み上げられません。積み上がったとしても不安定過ぎて、いつ崩れるかも分からないでしょう。ですので、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>設計のポイントを知る前に、できればもう一度基本について読み頭に刷り込んでいただきたいと思います。</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">ここで紹介する<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>のポイントは5つです。特に中小企業など資源が限定されている企業を想定してポイントをご紹介します。</p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\"><strong style=\"box-sizing: border-box; font-weight: bold;\">ポイント1.ターゲットをグッと絞る</strong></h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">先述のように、不特定多数のユーザーは複数のグループをターゲットとすることは非効率であったりコストが増大します。限られた資源の中で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を実行する場合、やはりターゲットをグッと絞り資源を集中させるというやり方がべストです。<strong style=\"box-sizing: border-box; font-weight: bold;\"> </strong></p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\"><strong style=\"box-sizing: border-box; font-weight: bold;\">ポイント2.ターゲットを理解する</strong></h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">ターゲットを絞り込んだら次は理解するためのアクションに移ります。主な方法としては「<a href=\"https://www.leadplus.net/blog/what-is-persona-marketing.html\" style=\"box-sizing: border-box; background-color: transparent; color: #1977b5; transition: color 0.4s ease 0s; text-decoration: none;\">ペルソナ</a>設計」や「カスタマージャーニーマップ作成」があります。いずれもユーザーの思考や嗜好、購買行動などを理解するための方法です。これらを駆使してユーザーを理解し、適切な<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を設計していきます。 </p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\"><strong style=\"box-sizing: border-box; font-weight: bold;\">ポイント3.ビジネスをひとことで言い表す</strong></h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\"><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>におけるメッセージはシンプルなほど強力です。なぜなら、シンプルでないとユーザーはビジネスコンセプトを理解できず、それを伝えることも難しいからです。たとえば「一杯の美味しいコーヒーのために」という一文と、「私たちは一杯の美味しいのコーヒーのために、日夜努力を重ね、皆さんに快適なひと時をお過ごしいたきたいと思っています」という一文では、力強さや与える<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A4%A5%F3%A5%D1%A5%AF\">インパク</a>トが違います。後者は長ったらしくて、結局何が言いたいのかと考えさせてしまいます。</p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\"><strong style=\"box-sizing: border-box; font-weight: bold;\">ポイント4.ベネフィットを訴求する</strong></h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">ベネフィットとは製品やサービスを利用することで得られる「恩恵」や「便益」です。つまり、製品やサービスが持つ特徴を訴求するのではなく、利用することで「○○といった効果が得られますよ」というベネフィットを訴求します。 </p>\r\n<h3 style=\"box-sizing: border-box; margin: 45px 0px 25px; font-weight: bold; font-size: 20px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #3e3e3e; padding-left: 4px; padding-bottom: 10px; border-bottom: 2px solid #3e3e3e;\"><strong style=\"box-sizing: border-box; font-weight: bold;\">ポイント5.競合を明確にする</strong></h3>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">競合はいないに越したことはありません。しかし、ほぼ全てのビジネスで少なからず競合企業はいるはずです。競合を明確にすることは自社製品やサービスをより深く理解することに繋がります。競合に対して自社製品やサービスの強みや弱みは何か、訴求すべきポイントや改善点は何かなどが見えてくるため、より効果の高い<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>を設計できるでしょう。</p>\r\n<h2 id=\"toc-2\" style=\"box-sizing: border-box; margin: 60px -50px 40px; font-weight: bold; font-size: 26px; line-height: 1.5; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; color: #ffffff; text-align: left; padding: 10px 40px; background-color: #7e7e7e; border-left: 6px solid #717171;\">まとめ</h2>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">いかがでしたでしょうか？</p>\r\n<p style=\"box-sizing: border-box; margin: 20px 0px 0px; line-height: 1.75; word-break: break-word; hyphens: auto;\">本稿を読まれている方に中には、現在の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>に疑問を感じ課題を抱えている方が多いのではないでしょうか？そうした方は、一度弊社リードプラスまでご相談ください。インバウンド<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0\">マーケティング</a>のプロフェッショナル集団が、貴社の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DE%A1%BC%A5%B1%A5%C6%A5%A3%A5%F3%A5%B0%C0%EF%CE%AC\">マーケティング戦略</a>をトータルサポートいたします。</p>\r\n<div id=\"hs_cos_wrapper_lp_ralated_post\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"box-sizing: border-box; color: #4a4a4a; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"> </div>\r\n<div id=\"hs_cos_wrapper_lp_smart_content\" class=\"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module\" style=\"box-sizing: border-box; color: #4a4a4a; font-family: 'Noto Sans JP', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, YuGothic, 游ゴシック, 'ＭＳ Ｐゴシック', 'MS PGothic', arial, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\" data-hs-cos-general-type=\"widget\" data-hs-cos-type=\"module\"> </div>"
+      }
+    ]
+  },
+  {
+    "username": "fujifavoric",
+    "articles": []
+  },
+  {
+    "username": "areyoukicking",
+    "articles": []
+  },
+  {
+    "username": "nyarura",
+    "articles": []
+  },
+  {
+    "username": "yoshi_ky",
+    "articles": []
+  },
+  {
+    "username": "boobooboowy",
+    "articles": []
+  },
+  {
+    "username": "azumakuniyuki",
+    "articles": []
+  },
+  {
+    "username": "jsstudy",
+    "articles": []
+  },
+  {
+    "username": "odan3240",
+    "articles": []
+  },
+  {
+    "username": "kazoo_oo",
+    "articles": []
+  },
+  {
+    "username": "anadoren",
+    "articles": []
+  },
+  {
+    "username": "mstk_knife",
+    "articles": []
+  },
+  {
+    "username": "cameraojisan",
+    "articles": []
+  },
+  {
+    "username": "ohchang",
+    "articles": []
+  },
+  {
+    "username": "balaem",
+    "articles": []
+  },
+  {
+    "username": "africakennel",
+    "articles": []
+  },
+  {
+    "username": "devdaikichi",
+    "articles": []
+  },
+  {
+    "username": "yug1224",
+    "articles": []
+  },
+  {
+    "username": "nokazn",
+    "articles": []
+  },
+  {
+    "username": "hazeblog",
+    "articles": []
+  },
+  {
+    "username": "rin51",
+    "articles": []
+  },
+  {
+    "username": "sig",
+    "articles": []
+  },
+  {
+    "username": "reokaminaga",
+    "articles": []
+  },
+  {
+    "username": "sasasin_net",
+    "articles": []
+  },
+  {
+    "username": "yamashiro0110",
+    "articles": []
+  },
+  {
+    "username": "mennmabacon",
+    "articles": []
+  },
+  {
+    "username": "icoca2006",
+    "articles": []
+  },
+  {
+    "username": "kakkkki",
+    "articles": []
+  },
+  {
+    "username": "PEEE",
+    "articles": []
+  },
+  {
+    "username": "dai_hi_saru",
+    "articles": []
+  },
+  {
+    "username": "atsushifx",
+    "articles": []
+  },
+  {
+    "username": "shunutsu2-2-24",
+    "articles": []
+  },
+  {
+    "username": "frozen_faithjp",
+    "articles": []
+  },
+  {
+    "username": "dex8",
+    "articles": []
+  },
+  {
+    "username": "s4_ba",
+    "articles": []
+  },
+  {
+    "username": "yoshitsugumi",
+    "articles": [
+      {
+        "title": "自分用Gitメモ",
+        "link": "https://www.yoshitsugumi.com/entry/2020/01/17/101530",
+        "pubDate": "Fri, 17 Jan 2020 10:15:30 +0900",
+        "description": "<p>よく使うのをメモる。\n適宜追記予定。</p>\n\n<h3>最初</h3>\n\n<p><code>git clone xxxxxxxxxxxxxx</code></p>\n\n<h3>作業開始</h3>\n\n<h4>俺どこいるんや</h4>\n\n<p><code>git branch</code> <br/>\n<code>git branch -a</code></p>\n\n<h4>とりあえず開発ブランチ行くか</h4>\n\n<p><code>git checkout develop</code></p>\n\n<h4>今回の修正用のブランチ作ろっと</h4>\n\n<p><code>git branch feature/xxxxxxxx</code></p>\n\n<h4>移動</h4>\n\n<p><code>git branch feature/xxxxxxxx</code></p>\n\n<h3>source修正後</h3>\n\n<h4>俺、何修正したんやっけ？</h4>\n\n<p><code>git diff</code>  <br/>\n<code>git diff filename</code></p>\n\n<h4>コミットしたい変更を決めよう(インデックスに追加しよう)</h4>\n\n<p><code>git add -p filename</code></p>\n\n<h5>nanoウゼェ、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/vim\">vim</a>にしよう</h5>\n\n<p><code>git config --global core.editor 'vim -c \"set fenc=utf-8\"'</code></p>\n\n<h5>確定していく</h5>\n\n<ul>\n<li>y:そのままOK</li>\n<li>n:それは対象外</li>\n<li>e:編集します（入れない行は削除dd）</li>\n</ul>\n\n\n<h4>今回の修正全部インデックスに入れたっけ？</h4>\n\n<p><code>git diff --cached</code></p>\n\n<h4>コミットします</h4>\n\n<p><code>git commit -m \"tag: commit message\"</code></p>\n\n<h4>リモートに反映しよう</h4>\n\n<p><code>git push origin feature/xxxxxxxx</code></p>\n\n<h3>微修正</h3>\n\n<h4>やっべ、いらんやつaddしてしまった</h4>\n\n<p><code>git reset HEAD filename</code></p>\n\n<h4>やっべ、さっきのコミットに入れ忘れた</h4>\n\n<pre class=\"code\" data-lang=\"\" data-unlink>git add -p filename\ngit commit --amend --no-edit</pre>\n\n\n<h4>やっべ、さっきのpushあかんやつや</h4>\n\n<p><code>git push -f origin コミットのSHA-1:リモートの参照(developとかmasterとか)</code></p>\n\n<h3>参考</h3>\n\n<p><a href=\"http://www-creators.com/archives/2020\">git push &#x306E;&#x53D6;&#x308A;&#x6D88;&#x3057;&#x65B9;&#x6CD5; | WWW&#x30AF;&#x30EA;&#x30A8;&#x30A4;&#x30BF;&#x30FC;&#x30BA;</a></p>\n\n<p><a href=\"http://tech.nitoyon.com/ja/blog/2013/05/02/git-commit-amend/\">git commit --amend &#x3092;&#x7701;&#x529B;&#x5316;&#x3059;&#x308B;&#x65B9;&#x6CD5; - &#x3066;&#x3063;&#x304F;&#x716E;&#x30D6;&#x30ED;&#x30B0;</a></p>\n\n<p><a href=\"https://qiita.com/2m1tsu3/items/6d49374230afab251337\">&#x57FA;&#x672C;&#x7684;&#x306A;Git&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x307E;&#x3068;&#x3081; - Qiita</a></p>\n\n<p><a href=\"https://qiita.com/hide/items/17b970c485e803cbce08\">&#x3088;&#x304F;&#x4F7F;&#x3046; git diff &#x30B3;&#x30DE;&#x30F3;&#x30C9; - Qiita</a></p>\n\n<p><a href=\"https://qiita.com/ikenji/items/42248085c4f4b55660d6\">git &#x5DEE;&#x5206;&#x3092;&#x898B;&#x308B; - Qiita</a></p>\n\n<p><a href=\"https://qiita.com/okuderap/items/0b57830d2f56d1d51692\">Git&#x306E;&#x30D6;&#x30E9;&#x30F3;&#x30C1;&#x30E2;&#x30C7;&#x30EB;&#x306B;&#x3064;&#x3044;&#x3066; - Qiita</a></p>\n\n<p><a href=\"https://gist.github.com/kurotaky/5483492\">git commit &#x3059;&#x308B;&#x307E;&#x3067;&#x306B;&#x81EA;&#x5206;&#x304C;&#x3084;&#x3063;&#x3066;&#x3044;&#x308B;&#x3053;&#x3068; &middot; GitHub</a></p>\n"
+      }
+    ]
+  },
+  {
+    "username": "niwatori720",
+    "articles": []
+  },
+  {
+    "username": "to4iki",
+    "articles": []
+  },
+  {
+    "username": "hikaru515",
+    "articles": []
+  },
+  {
+    "username": "Rela24",
+    "articles": []
+  },
+  {
+    "username": "tinsep19",
+    "articles": []
+  },
+  {
+    "username": "takutakuma",
+    "articles": []
+  },
+  {
+    "username": "peketamin",
+    "articles": [
+      {
+        "title": "■",
+        "link": "http://peketamin.hatenablog.jp/entry/2020/01/17/183950",
+        "pubDate": "Fri, 17 Jan 2020 18:39:50 +0900",
+        "description": "<p>昨年末に一気に太ってしまった。それまでは65 kg 付近で、まあ、ちょい太りだったんだけど、そこから 69 kg まで膨れた。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C2%CE%BB%E9%CB%C3%CE%A8\">体脂肪率</a>はついに 20 % に達した。やばいと思って、たまーにジョギングしてたりして、少しだけ落ちたんだけど、もう、太りレベルが変わってしまっていて、漫然と運動したりしなかったりだけだと 69 - 68 kg のバンドから動かない。</p>\n\n<p>そこで、1月6日からダイエットを始めていたんだけど、今のところ順調な気している…たぶん…。</p>\n\n<p>まあ、基準以上太ってれば、そのはみ出た分を減らすのは、ちょっと頑張れば出来るらしい (大変なのは、基準以下に痩せることらしい。要するに、ある<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C2%CE%BB%E9%CB%C3%CE%A8\">体脂肪率</a>を境に痩せにくくなる。モデルさんの体型って努力の賜物なんやねえ…)。</p>\n\n<p>1/6: 68.3  kg, 20.1 %<br/>\n↓<br/>\n1/17: 66.3 kg, 19.6 %</p>\n\n<p>12日間で2kg。1日150g強ペース。悪くないと思う…。</p>\n\n<p>やってるのは下記。</p>\n\n<ul>\n<li>何かを食べるたびにカロリーを調べて、足し合わせていき、1日のトータル摂取カロリーが1000 kcal - 1500 kcal に収まるようにする。</li>\n<li>筋肉体操を2日に1回</li>\n<li>少なくとも3時間おきには水を飲む</li>\n<li>ストレッチ</li>\n</ul>\n\n\n<p>たまにジョギングしてたけど、最近出来てない。ここに、</p>\n\n<ul>\n<li>週3回のジョギング</li>\n<li>プランシェの練習</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C7%BE%A5%C8%A5%EC\">脳トレ</a></li>\n</ul>\n\n\n<p>を追加したいなあ。</p>\n\n<p>運動よりカロリー制限を念頭に置いてる。これは、お医者さんに「運動では痩せません。入るカロリーを出るカロリーより減らしてください」とキッパリ言われたから。運動による消費カロリーを調べると、強度・負荷にもよるんだけど、15-30分程度の運動だと消費カロリーって 250 kcalとかなんだよね。ご飯が茶碗一杯で270 kcalぐらいあるから、苦しい思いをしてジョギングしてカロリー消費しても、たった一回の食事で簡単に相殺されてしまう。ダイエット効率としては食事制限の方が圧倒的に良い、ということをお医者さんは言ってたんだと思う。</p>\n\n<p>食べる量をガラッと変えると栄養不足が怖いので、一応毎日、小魚、マルチ栄養素サプリを取ってる。</p>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C2%CE%BB%E9%CB%C3%CE%A8\">体脂肪率</a>はまずは 18%以下を目指して、刻んで行って、半年以内に10%以下を目指したいがどうか…。</p>\n\n<p>取り敢えず、慢性的な胃痛は無くなったし、腰痛も軽減してきた気がする。これはデカイ。食べすぎで胃が荒れてると口臭も気になるし。腰痛は日常動作を緩慢にし、動くのを億劫にさせる。</p>\n\n<p>何せ、出っ張ったお腹は、屈む動作や座屈するだけでも邪魔だし、反り腰の原因にもなるし、内臓脂肪が多いのは色んなリスクがある。お金持ちじゃないなら、医療コストは下げたほうがいい。健康は金で買えないし。</p>\n\n<p>本当はリングフィットアド<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D9%A5%F3%A5%C1%A5%E3%A1%BC\">ベンチャー</a>欲しいんだけど、人気すぎて予約すら出来ないし、諦めて自重トレに励もうと思います。</p>\n\n<p><div class=\"hatena-asin-detail\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07XV8VSZT/peketamin-22/\"><img src=\"https://images-fe.ssl-images-amazon.com/images/I/512%2BB%2BW%2BXmL._SL160_.jpg\" class=\"hatena-asin-detail-image\" alt=\"リングフィット アドベンチャー -Switch\" title=\"リングフィット アドベンチャー -Switch\"></a><div class=\"hatena-asin-detail-info\"><p class=\"hatena-asin-detail-title\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07XV8VSZT/peketamin-22/\">リングフィット アドベンチャー -Switch</a></p><ul><li><span class=\"hatena-asin-detail-label\">作者:</span><a href=\"http://d.hatena.ne.jp/keyword/\" class=\"keyword\"></a></li><li><span class=\"hatena-asin-detail-label\">出版社/メーカー:</span> <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C7%A4%C5%B7%C6%B2\">任天堂</a></li><li><span class=\"hatena-asin-detail-label\">発売日:</span> 2019/10/18</li><li><span class=\"hatena-asin-detail-label\">メディア:</span> Video Game</li></ul></div><div class=\"hatena-asin-detail-foot\"></div></div></p>\n\n<p><div class=\"hatena-asin-detail\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07XV4NHHN/peketamin-22/\"><img src=\"https://images-fe.ssl-images-amazon.com/images/I/51ZIQxjxTxL._SL160_.jpg\" class=\"hatena-asin-detail-image\" alt=\"Ring Fit Adventure (輸入版:北米) – Switch\" title=\"Ring Fit Adventure (輸入版:北米) – Switch\"></a><div class=\"hatena-asin-detail-info\"><p class=\"hatena-asin-detail-title\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07XV4NHHN/peketamin-22/\">Ring Fit Adventure (輸入版:北米) – Switch</a></p><ul><li><span class=\"hatena-asin-detail-label\">作者:</span><a href=\"http://d.hatena.ne.jp/keyword/\" class=\"keyword\"></a></li><li><span class=\"hatena-asin-detail-label\">出版社/メーカー:</span> Nintendo(World)</li><li><span class=\"hatena-asin-detail-label\">発売日:</span> 2019/10/18</li><li><span class=\"hatena-asin-detail-label\">メディア:</span> Video Game</li></ul></div><div class=\"hatena-asin-detail-foot\"></div></div></p>\n\n<p><div class=\"hatena-asin-detail\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07YL2WCL8/peketamin-22/\"><img src=\"https://images-fe.ssl-images-amazon.com/images/I/51B%2B7ndmuoL._SL160_.jpg\" class=\"hatena-asin-detail-image\" alt=\"東北大学加齢医学研究所 川島隆太教授監修 脳を鍛える大人のNintendo Switchトレーニング(タッチペン付き) -Switch\" title=\"東北大学加齢医学研究所 川島隆太教授監修 脳を鍛える大人のNintendo Switchトレーニング(タッチペン付き) -Switch\"></a><div class=\"hatena-asin-detail-info\"><p class=\"hatena-asin-detail-title\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B07YL2WCL8/peketamin-22/\">東北大学加齢医学研究所 川島隆太教授監修 脳を鍛える大人のNintendo Switchトレーニング(タッチペン付き) -Switch</a></p><ul><li><span class=\"hatena-asin-detail-label\">作者:</span><a href=\"http://d.hatena.ne.jp/keyword/\" class=\"keyword\"></a></li><li><span class=\"hatena-asin-detail-label\">出版社/メーカー:</span> <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C7%A4%C5%B7%C6%B2\">任天堂</a></li><li><span class=\"hatena-asin-detail-label\">発売日:</span> 2019/12/27</li><li><span class=\"hatena-asin-detail-label\">メディア:</span> Video Game</li></ul></div><div class=\"hatena-asin-detail-foot\"></div></div></p>\n"
+      },
+      {
+        "title": "■",
+        "link": "http://peketamin.hatenablog.jp/entry/2020/01/16/161609",
+        "pubDate": "Thu, 16 Jan 2020 16:16:09 +0900",
+        "description": "<p>鍋の残りが冷蔵庫にあったので、レンジでチンして食べてると「あれ、誰か漬物混ぜたのかな」という酸っぱさを感じた。</p>\n\n<p>本当に漬物かと見まごうばかりの酸っぱさ。あ、これは…腐敗か…発酵か…どっちだ？</p>\n\n<p>白菜が<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B6%A5%EF%A1%BC%A5%AF%A5%E9%A5%A6%A5%C8\">ザワークラウト</a>みたいな味なのね。一瞬不安になって、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Amazon%20Fire%20TV\">Amazon Fire TV</a> Stickの<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Web%A5%D6%A5%E9%A5%A6%A5%B6\">Webブラウザ</a>機能で「乳酸菌 発酵 酸っぱい 味 腐敗」みたいな感じでザルな調べ方してテレビ画面で色々記事を眺めてる間に、食べ終わってしまった。丼一杯分。</p>\n\n<p>前に、牛乳が腐った時、味は苦かった。これは腐敗。小松菜とリンゴのスムー<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A1%BC\">ジー</a>が腐った時も苦かったし、酸味がなく、古びた甘味と雑味、嫌な臭いだった。これも腐敗。ちなみにスムー<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A1%BC\">ジー</a>は無理して飲んだら蕁麻疹出て一日中、発熱と下痢が止まらなかったし、お腹痛かったし、死の危険を感じた。</p>\n\n<p>今回はそれら苦味とは違い、爽やかな酸味が…あったので…どうでしょうか。どうなんでしょうか。</p>\n\n<p>だって、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%E4%A4%B7%A4%E2%A4%F3\">もやしもん</a> にもさ、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E9%A5%F3%A5%D3%A5%C3%A5%AF\">ランビック</a>っていう酸っぱいビールは麦汁を冷暗所で空気にさらして野生<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B9%DA%CA%EC\">酵母</a>で発酵させるって書いてあったし、自然発酵いけんじゃね？今回の鍋は<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C6%A6%C6%FD%C6%E9\">豆乳鍋</a>だったし、冷蔵庫には納豆も入ってるし、麹も入ってるから、乳酸発酵させる<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B9%DA%CA%EC\">酵母</a>の力で漬物みたいに発酵したんじゃないか、っていう期待を抱いてシマウマ🦓。</p>\n\n<p>今、16日木曜日の16時。前にスムー<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A1%BC\">ジー</a>でくたばった時は、2時間後には具合悪くなったから、今回も2, 3時間後には結果が分かるのでは…？</p>\n\n<p>ちなみに、卵の殻に付くことで有名な<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B5%A5%EB%A5%E2%A5%CD%A5%E9%B6%DD\">サルモネラ菌</a>にやられると、それこそ生死の境をさまようらしい。毒性が高く下手すると死ぬ…ああ、やっぱり妙な好奇心で食べなきゃよかったか…でももう食べちゃったしなあ…。ヤバかったら119しよう。</p>\n\n<p><div class=\"hatena-asin-detail\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B000JBNPGG/peketamin-22/\"><img src=\"https://images-fe.ssl-images-amazon.com/images/I/41o1c20d9AL._SL160_.jpg\" class=\"hatena-asin-detail-image\" alt=\"呼吸・醗酵・腐敗 (1948年)\" title=\"呼吸・醗酵・腐敗 (1948年)\"></a><div class=\"hatena-asin-detail-info\"><p class=\"hatena-asin-detail-title\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B000JBNPGG/peketamin-22/\">呼吸・醗酵・腐敗 (1948年)</a></p><ul><li><span class=\"hatena-asin-detail-label\">作者:</span><a href=\"http://d.hatena.ne.jp/keyword/%C5%C4%C3%E6%20%B7%E9\" class=\"keyword\">田中 潔</a></li><li><span class=\"hatena-asin-detail-label\">出版社/メーカー:</span> <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C6%FC%CB%DC%BD%D0%C8%C7%BC%D2\">日本出版社</a></li><li><span class=\"hatena-asin-detail-label\">発売日:</span> 1948</li><li><span class=\"hatena-asin-detail-label\">メディア:</span> －</li></ul></div><div class=\"hatena-asin-detail-foot\"></div></div></p>\n\n<hr />\n\n<p>10時間経ったけど、今のところ大丈夫。</p>\n\n<hr />\n\n<p>そういえば、長期入院の小児患者って大人びてると聞く。</p>\n\n<p>人生50年の時代の20代も随分大人びてる印象。</p>\n\n<p>人生80年時代の大人の境界が半分の40歳だとすると、人生50年時代は25歳が大人の境界。</p>\n\n<p>昔の (<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BC%EA%C4%CD%BC%A3%C3%EE\">手塚治虫</a>全盛期とか) 60代は爺さん婆さんだったけど、今はせいぜいおじさん、おばさん扱い。</p>\n\n<p>このまま寿命が伸びて、人生200年時代が来たら、大人になるのは100歳ごろ。</p>\n\n<p>長寿命であるエルフが100歳でも若々しい見た目なのが分かる。(何)</p>\n\n<p>んー、なんか、精神年齢の研究でもっとちゃんと調べられてそうな話だ。</p>\n\n<p><div class=\"itunes-embed freezed itunes-kind-song\"><a href=\"https://music.apple.com/jp/album/adesso-e-fortuna-%E7%82%8E%E3%81%A8%E6%B0%B8%E9%81%A0/948523309?i=948523352&uo=4&at=10l8JW&ct=hatenablog\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://cdn.image.st-hatena.com/image/scale/6b45a266337af4532d4ed5497b770305c0d630dc/enlarge=0;height=200;version=1;width=200/https%3A%2F%2Fis3-ssl.mzstatic.com%2Fimage%2Fthumb%2FMusic1%2Fv4%2F04%2F6f%2Feb%2F046febc2-9e1c-cf99-8af0-f9ebedcffb32%2Fsource%2F100x100bb.jpg\" alt=\"Adesso e Fortuna ~炎と永遠~\" title=\"Adesso e Fortuna ~炎と永遠~\" class=\"itunes-embed-image\"/></a><div class=\"itunes-embed-info\"><p class=\"itunes-embed-title\"><a href=\"https://music.apple.com/jp/album/adesso-e-fortuna-%E7%82%8E%E3%81%A8%E6%B0%B8%E9%81%A0/948523309?i=948523352&uo=4&at=10l8JW&ct=hatenablog\" rel=\"nofollow\" target=\"_blank\">Adesso e Fortuna ~炎と永遠~</a></p><ul><li class=\"itunes-embed-artist\">sherry</li><li class=\"itunes-embed-genre\">アニメ</li><li class=\"itunes-embed-price\">¥255</li><li class=\"itunes-embed-badge\"><a href=\"https://music.apple.com/jp/album/adesso-e-fortuna-%E7%82%8E%E3%81%A8%E6%B0%B8%E9%81%A0/948523309?i=948523352&uo=4&at=10l8JW&ct=hatenablog\" rel=\"nofollow\" target=\"_blank\"><img src=\"https://cdn.blog.st-hatena.com/images/theme/itunes/itunes-badge-itunes@2x.png\" width=\"44px\" height=\"15px\" /></a></li></ul><ul><li class=\"itunes-embed-preview\"><audio src=\"https://audio-ssl.itunes.apple.com/itunes-assets/Music3/v4/da/2b/52/da2b52ab-e31e-dc92-bee1-a26a3cce2976/mzaf_6224802177045385633.plus.aac.p.m4a\" controls></audio></li><li><small class=\"provided-courtesy-of-itunes\">provided courtesy of <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/iTunes\">iTunes</a></small></li></ul></div></div></p>\n\n<p>---追記---</p>\n\n<p><a href=\"https://shinbun20.com/oiwai/chojyu/jyumyou/\">&#x65E5;&#x672C;&#x4EBA;&#x306E;&#x5E73;&#x5747;&#x5BFF;&#x547D;&#x306F;&#x3053;&#x3046;&#x3057;&#x3066;&#x79FB;&#x308A;&#x5909;&#x308F;&#x3063;&#x305F;&#xFF01;&#xFF5E;&#x65E5;&#x672C;&#x306E;&#x9577;&#x5BFF;&#x795D;&#x3044;&#x306E;&#x6B74;&#x53F2;&#xFF5E;</a></p>\n\n<p>によると、</p>\n\n<blockquote><p>明治・大正時代の平均寿命は44歳とはっきりした数字が出ていますが、江戸時代の平均寿命は32～44歳とかなりあいまいです。</p>\n\n<p>江戸時代以前にさかのぼると<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B0%C2%C5%DA%C5%ED%BB%B3%BB%FE%C2%E5\">安土桃山時代</a>の平均寿命は30代、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BC%BC%C4%AE%BB%FE%C2%E5\">室町時代</a>は15歳、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B3%F9%C1%D2%BB%FE%C2%E5\">鎌倉時代</a>が24歳、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CA%BF%B0%C2%BB%FE%C2%E5\">平安時代</a>は30歳、飛鳥・<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C6%E0%CE%C9%BB%FE%C2%E5\">奈良時代</a>が28～33歳、古墳・<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CC%EF%C0%B8%BB%FE%C2%E5\">弥生時代</a>が10～20代、そして縄文・<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B5%EC%C0%D0%B4%EF%BB%FE%C2%E5\">旧石器時代</a>が15歳前後であることがわかっています。</p></blockquote>\n\n<p>てことは、信長の時代は周囲の人間が30代で死んでいく世界か。信長は42歳で死没。</p>\n\n<p>平均を取っているのであれば…栄養状態の良い貴族に比べて貧栄養が想像される庶民では当たり前のように10代、20代でバッタバッタと死んでいったのかな。</p>\n\n<p>戦時においては長く平和に生きたいと願い、平和においては<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E1%A5%E1%A5%F3%A5%C8%A5%E2%A5%EA\">メメントモリ</a>と言われるじゃんねえ。</p>\n\n<p><div class=\"hatena-asin-detail\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B00FIWMXSC/peketamin-22/\"><img src=\"https://images-fe.ssl-images-amazon.com/images/I/51yF%2BNZV8OL._SL160_.jpg\" class=\"hatena-asin-detail-image\" alt=\"メメント (字幕版)\" title=\"メメント (字幕版)\"></a><div class=\"hatena-asin-detail-info\"><p class=\"hatena-asin-detail-title\"><a href=\"https://www.amazon.co.jp/exec/obidos/ASIN/B00FIWMXSC/peketamin-22/\">メメント (字幕版)</a></p><ul><li><span class=\"hatena-asin-detail-label\">発売日:</span> 2013/11/26</li><li><span class=\"hatena-asin-detail-label\">メディア:</span> Prime Video</li></ul></div><div class=\"hatena-asin-detail-foot\"></div></div></p>\n\n<p>大人びた少年ってどう大人びてるんだろ。人生経験により得られる経験則などは語りようがないから、「しっかりとした性格」「覚悟」「顔つき」「少々のことでは慌てずどっしりと構えている」とかなのかな。</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "daiki_17",
+    "articles": []
+  },
+  {
+    "username": "tsumuchan",
+    "articles": []
+  },
+  {
+    "username": "y_nishimura_728",
+    "articles": [
+      {
+        "title": "エンジニアの成長を応援する忘年LT大会2019に行ってきました",
+        "link": "https://yui-nishimura-log.hatenablog.com/entry/2020/01/16/201428",
+        "pubDate": "Thu, 16 Jan 2020 20:14:28 +0900",
+        "description": "<p>2019/12/23に行われた「エンジニアの成長を応援する忘年LT大会2019」に参加してきましたので、感想を書きます。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fengineers.connpass.com%2Fevent%2F158599%2F\" title=\"エンジニアの成長を応援する忘年LT大会2019 (2019/12/23 19:00〜)\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h1>参加した理由</h1>\n\n<p>今年の後半から少しずつ勉強会に行き始めていて、いろいろなLTを聞いてみたかったことと、一般の参加からでもとにかく場数を踏んで慣れていこうと思ったことが理由です。</p>\n\n<h1>会場</h1>\n\n<p>六本木にある<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B9%E7%C6%B1%B2%F1%BC%D2\">合同会社</a><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/DMM.com\">DMM.com</a>さんの会議室でした。</p>\n\n<p>ゲームやエンターテイメントが好きな方は大体知ってる有名企業さんですね。手掛けるコンテンツはエンタメ系に関しては大概何でもありなくらいに幅広いです。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.dmm.com%2F\" title=\"DMM.com - 40以上のサービスを展開する総合エンタメサイト！\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h1>始まるまで</h1>\n\n<p>入館の手続きにちょっと時間がかかりましたが、なんとか入館。年末なので、スタッフをされている方も皆忙しくて連携が上手く行っていなかったのかもしれませんね。</p>\n\n<p>会場は高層階なので夜景もきれいなのですが、面白かったのは壁面に造花でなく本物の植物が植えてあったことです。DMMの方曰く、21:30に自動で散水が行われるとのこと。実際、LT中にその時間になると、散水の微かな音がしていました。</p>\n\n<p>画面はプロジェクターではなく、大画面ディスプレイ。「凄いなー」と思ったのですが、ハードウェアの相性なのか、コネクタの相性なのか、登壇者の幾人かは持ち込んだ機器では映すことが出来ないと言う状況が途中で発生。緊急手段としてPDF化とファイルの共有を駆使することで、投影できる機器を持つ人の機器で表示するという形で解決しました。</p>\n\n<p>テーブルが設置してあったので、LTを見やすい座席配置にするため、参加者で力を合わせて全て端に寄せたのですが、木製の良いテーブルなので4人がかりで移動させるという中々の作業でした。</p>\n\n<p>LTが始まる前に、connpassのページでも告知の合った、持ち込まれた日本酒の紹介。以下の日本酒が有志によって提供されました。</p>\n\n<p><a href=\"https://twitter.com/bainarian\">kazto (&#x63A1;&#x7528;&#x3084;&#x3063;&#x3066;&#x3044;&#x304D;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;) (@bainarian) | Twitter</a>さんから、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B7%A7%CB%DC%B8%A9\">熊本県</a>の「花の香酒造「花の香 和水（なごみ）」」</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.hananoka.co.jp%2F\" title=\"花の香酒造株式会社｜日本酒・焼酎をつくる熊本県北の酒蔵\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.hananoka.co.jp%2Fproducts2%2Fnihonshu%2Fseishu%2Fdetail%2F3075_00.html\" title=\"純米大吟醸 和水｜花の香酒造株式会社\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p>「虎の穴ラボ株式会社」の山田さんから、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B9%E1%C0%EE%B8%A9\">香川県</a>の「川鶴酒造 純米 たのののた」</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fkawatsuru.com%2F\" title=\"川鶴酒造株式会社\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p><a href=\"https://twitter.com/skm070924\">&#x3055;&#x304F;&#x3061;&#x3072; (@skm070924) | Twitter</a>さんから、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CA%A1%C5%E7%B8%A9\">福島県</a>の「仁井田本家 しぜんしゅ 純<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CA%C6%B8%B6\">米原</a>酒」</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fniida1711.shop%2F\" title=\"仁井田本家\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fniida1711.shop%2Fitems%2F5b0ce9a150bbc3461c001548\" title=\"仁井田本家\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h1>LT</h1>\n\n<h2>LT0：スポンサーLT</h2>\n\n<h3>概要</h3>\n\n<p>今回の会場スポンサー、DMMの<a href=\"https://twitter.com/shibuatsu8\">&#x3057;&#x3076;&#x3042;&#x3064;&#x1F604;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&times;HR&#x3092;&#x8003;&#x3048;&#x308B;&#x4EBA;/Atsushi Shibuya (@shibuatsu8) | Twitter</a>さんによる、アウトプットを始めた一年についてのLTです。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fshibuatsu8\" title=\"しぶあつ/Atsushi Shibuya｜note\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>DMMについて\n\n<ul>\n<li>ベルギーリーグ</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D9%A5%F3%A5%C1%A5%E3%A1%BC%A5%AD%A5%E3%A5%D4%A5%BF%A5%EB\">ベンチャーキャピタル</a></li>\n<li>水族館</li>\n</ul>\n</li>\n<li>面白いことをやりたい人を募集中</li>\n<li>「アウトプット最高」\n\n<ul>\n<li>昨年の「エンジニアの成長を応援する忘年LT大会」が社外LTの初登壇\n\n<ul>\n<li>楽しい！</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>アウトプットしたい！\n\n<ul>\n<li>色々迷ったけどワンピースの「うるせェ！行こう！」の精神でnoteを始める</li>\n<li>出すと意外と反応がある</li>\n<li>誰かの体験は誰かの未体験</li>\n</ul>\n</li>\n<li>今年の参加\n\n<ul>\n<li>カンファレンス・勉強会：20件以上\n\n<ul>\n<li>エンジニア向け</li>\n<li>実況ツイート</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>ゲームや<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C5%C5%BB%D2%BD%F1%C0%D2\">電子書籍</a>と言うイメージが自分の中では強かったのですが、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D9%A5%F3%A5%C1%A5%E3%A1%BC%A5%AD%A5%E3%A5%D4%A5%BF%A5%EB\">ベンチャーキャピタル</a>や水族館まで手がけているのは驚きでした。どの事業も、モチベーションは一貫して「面白いこと」とのこと。</p>\n\n<p>アウトプットを始めたり、非エンジニアとしてエンジニアの集まる場所に行ってLT登壇をしたり、実況ツイートに参加し、反応がもらえて楽しいと話していました。</p>\n\n<p>何事も「楽しい」という感情はモチベーションの強い原動力になりますね。</p>\n\n<h2>LT1：「#ありがとう 2019 kansha」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/higuyume\">KANE@Podcast&#x751F;&#x3084;&#x3059;&#x304A;&#x306B;&#x3044;&#x3055;&#x3093;&#xFF06;&#x30A8;&#x30CA;&#x30B8;&#x30E3;&#x30A4;&#x30B6;&#x30FC;&amp;&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x8AAD;&#x66F8;&#x65E5;&#x548C;-&#x3044;5-&#x30C0;&#x30EC;&#x30CF;&#x30B8;&#x672C; (@higuyume) | Twitter</a>さんによる、今年一年の感謝を込めたLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>「#ありがとう2019」「#engineers_lt」\n\n<ul>\n<li>「私と一緒に活動をしてくれた全ての方に\"ありがとう\"」</li>\n<li>この<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0\">ハッシュタグ</a>で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/twitter\">twitter</a>でつぶやける人はつぶやく</li>\n<li>私のつぶやきは↓（「#engineers_lt」の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%B7%A5%E5%A5%BF%A5%B0\">ハッシュタグ</a>を忘れたので、返信で追加しています）</li>\n</ul>\n</li>\n</ul>\n\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\"><a href=\"https://twitter.com/hashtag/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%862019?src=hash&amp;ref_src=twsrc%5Etfw\">#ありがとう2019</a><br>勉強会を開催してくれた方と、このアカウントで繋がった方全員にありがとうございます。</p>&mdash; <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Yui\">Yui</a> Nishimura/西村ゆい (@y_nishimura_tec) <a href=\"https://twitter.com/y_nishimura_tec/status/1209066641851420672?ref_src=twsrc%5Etfw\">2019年12月23日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<ul>\n<li>「早く行きたければ、一人で行け。遠くへ行きたければ、みんなで行け」</li>\n<li>2020年もみんなで遠くへ行きたい</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>開幕からエモいですね。みんながそれぞれ何かに「ありがとう」としているのは和みました。</p>\n\n<p>挙げられていた「早く行きたければ、一人で行け。遠くへ行きたければ、みんなで行け」はアフリカのことわざだそうですが、いい言葉だなあと思いました。</p>\n\n<h2>LT2：「覚悟とは！？」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/sapi_kawahara\">&#x3055;&#x3063;&#x3074;&#x30FC;&#x5DDD;&#x539F;&#x1F376; (@sapi_kawahara) | Twitter</a>さんによる、覚悟を問われた一年の振り返りについてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AD%A5%E3%A5%EA%A5%A2%A5%D7%A5%E9%A5%F3\">キャリアプラン</a>への疑問\n\n<ul>\n<li>SESで8年半</li>\n</ul>\n</li>\n<li>ある勉強会\n\n<ul>\n<li>メルカリの方と1on1をする\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AD%A5%E3%A5%EA%A5%A2%A5%D7%A5%E9%A5%F3\">キャリアプラン</a>について\n\n<ul>\n<li>SESのままが良いか？外に出るか？</li>\n<li>生かすための覚悟がない</li>\n<li>自分の方針</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>転職の決意\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D9%A5%F3%A5%C1%A5%E3%A1%BC\">ベンチャー</a>→失敗</li>\n<li>現場の人以外の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%EA%A5%D5%A5%A1%A5%E9\">リファラ</a>ル</li>\n<li>エージェント→カジュアル面談\n\n<ul>\n<li>再度、覚悟を問われる</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>「あなたに覚悟はあるか？」</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AD%A5%E3%A5%EA%A5%A2%A5%D7%A5%E9%A5%F3\">キャリアプラン</a>に迷って転職活動などを行う中で、一年の内に二回、別々の方から「覚悟」を問われたそう。</p>\n\n<p>「覚悟」というか「踏ん切り」のようなものかもしれないなとも思いました。残るにしろ、離れるにしろ、どこかで踏ん切りをつけて、受け入れたり切りをつける事が重要なのかなと。</p>\n\n<p>個人的な実体験上では、迷ってグダグダしてモチベーションが落ちている状態が一番キツかったですね。</p>\n\n<h2>LT3：「今年のアウトプットを振り返って」</h2>\n\n<h3>概要</h3>\n\n<p><iframe id=\"talk_frame_585774\" src=\"//speakerdeck.com/player/86d25227565f4a598cd6e7d0faf93442\" width=\"710\" height=\"399\" style=\"border:0; padding:0; margin:0; background:transparent;\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe></p>\n\n<p><a href=\"https://twitter.com/amarelo_n24\">amarelo_n24 (@amarelo_n24) | Twitter</a>さんによる、今年のアウトプットを振り返ったLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>今年のアウトプット\n\n<ul>\n<li>インフラ勉強会での登壇：今年の初め</li>\n<li>今年は7回登壇、うち4回は珈琲の話</li>\n<li>ブログ開始</li>\n<li>Qiita開始</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>に4記事投稿</li>\n</ul>\n</li>\n<li>気づき\n\n<ul>\n<li>執筆は嫌いではない（かも？）\n\n<ul>\n<li>ブログを書こう</li>\n<li>絵はやっぱり苦手だった</li>\n</ul>\n</li>\n<li>登壇は楽しい\n\n<ul>\n<li>懇親会で話せる</li>\n<li>一人じゃないと思える</li>\n</ul>\n</li>\n<li>誰かの行動に影響を与えられる</li>\n</ul>\n</li>\n<li>今後の課題\n\n<ul>\n<li>技術ネタの貢献</li>\n<li>同人誌執筆</li>\n</ul>\n</li>\n<li>まとめ\n\n<ul>\n<li>行動が変わった</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>私が先日参加した「しがないラジオ meetup 4」でも珈琲愛に溢れたLTで登壇されていました。</p>\n\n<p>文を書いてアウトプットすることで、読書感想文で苦手だと思っていた文を書くことについて、「実はそんなに嫌いではないのでは？」と気づき、登壇することで懇親会で話すネタができ、一人ではないと感じられることで楽しさを見出したそうです。</p>\n\n<p>技術書典、技書博、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%DF%A5%B1\">コミケ</a>の技術系エリアでは、情報技術に限らない同人誌をいくつも見かけますので、珈琲についての同人誌というのも良いかもしれません。</p>\n\n<h2>LT4：「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>を主催してみて」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/bainarian\">kazto (&#x63A1;&#x7528;&#x3084;&#x3063;&#x3066;&#x3044;&#x304D;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;) (@bainarian) | Twitter</a>さんによる、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>を主催した一年を振り返るLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li><p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>主催</p></li>\n<li><p>人は縁に生かされている</p></li>\n<li><p>Giveは良い、Giverは強い</p>\n\n<ul>\n<li>Giveすればするほど返ってくる</li>\n</ul>\n</li>\n<li><p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>に参加</p>\n\n<ul>\n<li>都内は面倒→自分でやろう！</li>\n<li>という話をしたら<a href=\"https://twitter.com/ariaki4dev\">ariaki (@ariaki4dev) | Twitter</a>さんから会場を紹介してもらえた</li>\n</ul>\n</li>\n<li><p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>の中断：4～9月</p>\n\n<ul>\n<li>転職活動によるもの</li>\n</ul>\n</li>\n<li><p>再開：10月</p>\n\n<ul>\n<li>一人では個人の事情で中断してしまうので、運営を手伝ってくれる方が欲しい\n\n<ul>\n<li><a href=\"https://twitter.com/gulDra_cranch\">&#x3050;&#x30FC;&#x3069;&#x3089;&#x304F;&#x3089;&#x3093;&#x3061; (@gulDra_cranch) | Twitter</a>さんが運営のお手伝いとして参加</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><p>Giverであるように行動したい</p></li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>は都心での開催が多く、西側（立川等）では参加しづらいと感じたので「たまもく」を始めたのだそう。</p>\n\n<p>多摩の方で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A4%E2%A4%AF%A4%E2%A4%AF%B2%F1\">もくもく会</a>をやりたい、とアウトプットしたら、会場を紹介してもらえたということで、やりたいと言う気持ちからでも表明するのは大事ですね。</p>\n\n<p>始めは一人で運営していたのですが、途中で転職活動が入って半年ほど中断したことで、「運営を手伝ってくれる方がいないと、自分の事情で中断してしまう」ことに気づき、手伝ってくれる方を募集し、ぐーどらさんが運営に参加。</p>\n\n<p>Giver=人に与える人が最終的に有利だという話は以下の本が近年では有名所ですね。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2F%25EF%25BC%25A7%25EF%25BC%25A9%25EF%25BC%25B6%25EF%25BC%25A5-%25EF%25BC%2586-%25EF%25BC%25B4%25EF%25BC%25A1%25EF%25BC%25AB%25EF%25BC%25A5%25E3%2580%258C%25E4%25B8%258E%25E3%2581%2588%25E3%2582%258B%25E4%25BA%25BA%25E3%2580%258D%25E3%2581%2593%25E3%2581%259D%25E6%2588%2590%25E5%258A%259F%25E3%2581%2599%25E3%2582%258B%25E6%2599%2582%25E4%25BB%25A3-%25E4%25B8%2589%25E7%25AC%25A0%25E6%259B%25B8%25E6%2588%25BF-%25E9%259B%25BB%25E5%25AD%2590%25E6%259B%25B8%25E7%25B1%258D-%25E3%2582%25A2%25E3%2583%2580%25E3%2583%25A0%25E3%2583%25BB%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2588-ebook%2Fdp%2FB00IRV39FM%2F\" title=\"Amazon CAPTCHA\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p>私が最近読んだ本だと「<a href=\"https://www.amazon.co.jp/%E6%80%9D%E8%80%83%E3%81%AF%E7%8F%BE%E5%AE%9F%E5%8C%96%E3%81%99%E3%82%8B%EF%BC%BF%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%A4%E3%81%8D-%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%92%E3%83%AB-ebook/dp/B00S1L4H2W/\">&#x601D;&#x8003;&#x306F;&#x73FE;&#x5B9F;&#x5316;&#x3059;&#x308B;</a>」にも似たようなことが書かれていて、実はかなり以前からある原則かもしれません。</p>\n\n<p>kaztoさんの主催する「たまもく」は以下のconnpassページに掲載されています。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftamamoku.connpass.com%2F\" title=\"「たまもく」多摩地区ノンジャンルもくもく会\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h2>LT5：「登壇を中心に2019年のアウトプットを振り返る」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/yoshitaku_jp\">&#x3088;&#x3057;&#x305F;&#x304F; (@yoshitaku_jp) | Twitter</a>さんによる、今年一年のアウトプットを振り返るLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>一年を1～6月、7～9月、10～12月に分けて振り返る</li>\n<li>1～6月\n\n<ul>\n<li>月1でLTに応募</li>\n<li>知り合いのいないイベントを選ぶ</li>\n<li>登壇駆動開発</li>\n<li>転職活動で悩む\n\n<ul>\n<li>月1でのLT応募がちょっと限界に……</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>7～9月\n\n<ul>\n<li>部署が変わる\n\n<ul>\n<li>プリセールス、お客様へのハンズオン講師</li>\n</ul>\n</li>\n<li><a href=\"https://makezine.jp/event/mft2019/\">Makers Faire Tokyo 2019</a>に参加\n\n<ul>\n<li><a href=\"https://yoshitaku-jp.hatenablog.com/entry/2019/08/04/230000\">Maker Faire Tokyo 2019&#x306B;&#x81EA;&#x52D5;&#x7A4D;&#x8377;&#x30B7;&#x30B9;&#x30C6;&#x30E0;&#x300C;Salaie&#x300D;&#x3092;&#x51FA;&#x5C55;&#x3057;&#x3066;&#x304D;&#x305F;&#xFF01; - &#x3088;&#x3057;&#x305F;&#x304F; blog</a></li>\n<li>自動積荷システム Salaie</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>10～12月\n\n<ul>\n<li>海外カンファレンス参加\n\n<ul>\n<li><a href=\"https://databricks.com/sparkaisummit/europe\">SPARK + AI SUMMIT 2019</a></li>\n</ul>\n</li>\n<li><a href=\"https://project.nikkeibp.co.jp/pc/rpic/\">&#x307F;&#x3093;&#x306A;&#x306E;&#x30E9;&#x30BA;&#x30D1;&#x30A4;&#x30B3;&#x30F3;&#x30C6;&#x30B9;&#x30C8;</a>で優秀賞を取った</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Microsoft\">Microsoft</a>の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%BB%A5%DF\">セミ</a>ナーで登壇</li>\n</ul>\n</li>\n<li>来年\n\n<ul>\n<li><a href=\"https://techbookfest.org/\">&#x6280;&#x8853;&#x66F8;&#x5178;8</a></li>\n</ul>\n</li>\n<li>まとめ\n\n<ul>\n<li>アウトプットで成長できた</li>\n<li>興味のないこと・続けられないことはスパッと諦める</li>\n<li>自分を高めていける場所</li>\n<li><a href=\"https://write-blog-every-week.netlify.com/\">write-blog-every-week</a></li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>月1でLTに応募して登壇した下りはとにかく凄いなと感じました。知り合いのいないイベントを選択して、新しい知り合いを増やすのはいい方法ですね。真似してみます。</p>\n\n<p>後半の海外カンファレンス参加、みんなのラズパイコンテストでの受賞、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Microsoft\">Microsoft</a><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%BB%A5%DF\">セミ</a>ナー登壇はアウトプットしつつ鍛えてきた事がとても効いているのだなと思いました。</p>\n\n<h2>LT6：「所属企業のAdvent Calendarを初めて作った時に学んだこと」</h2>\n\n<h3>概要</h3>\n\n<p><iframe id=\"talk_frame_586442\" src=\"//speakerdeck.com/player/e7f826c5ba064b8f98a976125edbdcca\" width=\"710\" height=\"532\" style=\"border:0; padding:0; margin:0; background:transparent;\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe></p>\n\n<p><a href=\"https://twitter.com/okabeeeat\">okabeeeat (@okabeeeat) | Twitter</a>さんによる、所属企業で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>を作った時の苦労に関するLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li><p>作ってから埋まるまでの戦略をしっかり立てよう</p></li>\n<li><p>11月上旬</p>\n\n<ul>\n<li>社内で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>の話が出る\n\n<ul>\n<li>今年から情報発信を増やしたため</li>\n</ul>\n</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>の書き手を集めるため、個別アプローチ\n\n<ul>\n<li>中々埋まらない……</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><p>告知</p>\n\n<ul>\n<li><p>早くすべき</p></li>\n<li><p>Qiitaの使い方など、内容の整理をしておく</p></li>\n<li><p>ネタに困らないか？</p>\n\n<ul>\n<li><p>例を出す</p></li>\n<li><p>ブログや社内<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/wiki\">wiki</a>での記事を再利用する</p></li>\n</ul>\n</li>\n</ul>\n</li>\n<li><p>告知のリマインドをお願いした</p></li>\n<li><p>技術職以外にもアプローチした</p></li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>私自身は<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>を書いたことも、立てたこともまだ無いのですが、社内で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>をするときのポイントや苦労したところがよくまとまっているなと思いました。</p>\n\n<p>エンジニアへ個別にアプローチしても中々承諾してくれない、社内のSlackなどに告知しても中々埋まらないと行き詰まりつつも、なんとか全て埋まったそうです。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>を書くにあたっての注意点ややり方ななどを整理し、早めに告知を行うのがまず手始めで、告知を何度もリマインドするのも結構ポイントみたいですね。</p>\n\n<p>以外なところでは、技術職以外の方でも書きたいこと、書けることを持っているのでアプローチをすると良いとのこと。確かに、会社の情報発信としての<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>で、技術職以外の方に書いてもらうというのは、会社の雰囲気をより多角的に知ることができるので、求人への応募を考えている方へのアプローチとしても有用かもしれません。</p>\n\n<p>ブログや社内<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/wiki\">wiki</a>での記事を再利用する話は、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>だけではなく、LT登壇でも有りましたし、個人でも会社でもこまめに書き溜めておくと良いのかもしれません。</p>\n\n<h2>LT7：「ブログを書き続けた話」</h2>\n\n<h3>概要</h3>\n\n<p><iframe id=\"talk_frame_587299\" src=\"//speakerdeck.com/player/1fcf37e85c334e538ab4e12339152773\" width=\"710\" height=\"532\" style=\"border:0; padding:0; margin:0; background:transparent;\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe></p>\n\n<p><a href=\"https://twitter.com/kz_morita\">kz_morita &#x1F438; (@kz_morita) | Twitter</a>さんによる1年間毎週ブログを書き続けたことについてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>週に1記事ずつブログを書いた\n\n<ul>\n<li>51本の投稿</li>\n<li>合計で17万文字を書いた</li>\n</ul>\n</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%C9%A5%D9%A5%F3%A5%C8%A5%AB%A5%EC%A5%F3%A5%C0%A1%BC\">アドベントカレンダー</a>：4記事</li>\n<li>技術書典7で合同誌に寄稿した：30P</li>\n<li>変わったこと\n\n<ul>\n<li>ブログネタが無い→学んでいない\n\n<ul>\n<li>前後のインプットを見直すようになった</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>反省点\n\n<ul>\n<li>今ある知識でのその場しのぎの記事を書いてしまった</li>\n<li>記事を公開することが目的になってしまっていた</li>\n</ul>\n</li>\n<li>2020年の目標\n\n<ul>\n<li>定性的な目標\n\n<ul>\n<li>本当に学びたいことを学ぶ</li>\n<li>ブログ駆動の学習</li>\n</ul>\n</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C4%EA%CE%CC\">定量</a>的な目標\n\n<ul>\n<li>週1ベースの記事公開</li>\n<li>1000pv/月を目指す</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>毎週1本書き続けたのはとにかく凄いです。私は書くのが遅くて、週1ベースを目標にしつつも守れていないので……</p>\n\n<p>とにかく書き続けることは学びの振り返りとして悪いことではないけれど、それに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B8%C7%BC%B9\">固執</a>するあまりその場しのぎになっていたり、記事の公開だけが目的になってしまった事が反省点とのこと。</p>\n\n<p>それを踏まえて2020年は、本当に学びたいことをブログ駆動で学ぶ事、量的には2019年と同じく週1ベースを目指す事、そして月間1000プレビューを目指すことが目標だそうです。</p>\n\n<h2>LT8：「転職して変わったこと」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/endo_hizumi\">&#x9060;&#x85E4;&#x30D2;&#x30BA;&#x30DF; (@endo_hizumi) | Twitter</a>さんによる転職したことについてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>寿司の回るアプリ</li>\n</ul>\n\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fqiita.com%2Fendo_hizumi%2Fitems%2F2de99fafa424e04b4375\" title=\"お前らのクソアプリは間違えてる - Qiita\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<ul>\n<li>スーツを着なくて良くなった</li>\n<li>精神的余裕ができた\n\n<ul>\n<li>アウトプットが加速した</li>\n</ul>\n</li>\n<li>仕事について前向きに考えるようになった</li>\n<li>課題\n\n<ul>\n<li>だれてきた\n\n<ul>\n<li>気を引き締める</li>\n</ul>\n</li>\n<li>業務外 > 業務になっている時がある</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>寿司の回るアプリは楽しいネタアプリとはいえ、技術の表現としては良いなと思いました。ユーモアのセンスを技術で表現できるのは相乗効果で強いかなと。直接的に自分や相手の役に立つわけではないだろうけれど、「とにかく自分が作って、動かして楽しい」という視点も良いですね。</p>\n\n<p>転職して前職で辛かったところが解放されていい形で楽になれたことは、自分も元気づけられました。</p>\n\n<h2>LT9：「ITエンジニアの世界を知った自分の変化を振り返る話」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/S_Timer_Tech\">&#x5411;&#x672C;&#x90F7;:\\&#x30D0;&#x30B0;&#x306F;&#x591C;&#x66F4;&#x3051;&#x904E;&#x304E;&#x306B;&#x4ED5;&#x69D8;&#x306B;&#x5909;&#x308F;&#x308B;&#x3060;&#x308D;&#x3046; (@S_Timer_Tech) | Twitter</a>さんによる変化を振り返るLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>大手通信建設会社\n\n<ul>\n<li>今はあまりITとは関係ない業種</li>\n</ul>\n</li>\n<li>コスプレと衣装製作が趣味</li>\n<li>IT業界の先進的取り組みへの興味</li>\n<li>一年間の振り返り\n\n<ul>\n<li>1～3月\n\n<ul>\n<li>IT業界コミュニティとは接点なく過ごしてきた</li>\n</ul>\n</li>\n<li>4月\n\n<ul>\n<li>技術書典6：一般参加\n\n<ul>\n<li>技術同人誌との出会い\n\n<ul>\n<li>ワンストップ勉強会\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fbooth.pm%2Fja%2Fitems%2F1315174\" title=\"ワンストップ勉強会 - oyakata - BOOTH\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>エンジニアの成長を応援する本\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fbooth.pm%2Fja%2Fitems%2F1317843\" title=\"エンジニアの成長を応援する本 - エンジニアの登壇を応援する会 - BOOTH\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>勉強会へ参加\n\n<ul>\n<li>#ssmjp\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fssmjp.connpass.com%2F\" title=\"#ssmjp\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>DevRel Meetup\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdevrel.connpass.com%2F\" title=\"DevRel Meetup in Tokyo\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>エンジニアの登壇を応援する会\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fengineers.connpass.com%2F\" title=\"エンジニアの登壇を応援する会\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>転職透明化らぼ\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Frtlabo.connpass.com%2F\" title=\"転職透明化らぼ\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n</ul>\n</li>\n<li>夏\n\n<ul>\n<li>「完全<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/SIer\">SIer</a>脱出マニュアル」と出会う\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07TM9LWTN\" title=\"Amazon CAPTCHA\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>夏のボーナス\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Macbook%20Air\">Macbook Air</a>購入</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Rails\">Rails</a> Tutorialを始める</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>秋\n\n<ul>\n<li><a href=\"https://www.amazon.co.jp/Yogibo-%E3%83%A8%E3%82%AE%E3%83%9C%E3%83%BC-Traybo2-0%EF%BC%88%E3%83%88%E3%83%AC%E3%82%A4%E3%83%9C%E3%83%BC2-0%EF%BC%89-%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3/dp/B07XKJS35T/\">Yagibo&#x819D;&#x4E0A;&#x30C6;&#x30FC;&#x30D6;&#x30EB;</a>を買う\n\n<ul>\n<li>座った時に膝上テーブルになるので、以下のような状況で勉強スペースができる\n\n<ul>\n<li>電車</li>\n<li>高速バス</li>\n<li>飛行機</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>今\n\n<ul>\n<li>LT発表</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>2019年の変化\n\n<ul>\n<li>外の世界\n\n<ul>\n<li>文化：自分の知見をオープンに共有する</li>\n<li>ミスマッチ</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AD%A5%E3%A5%EA%A5%A2%A5%D7%A5%E9%A5%F3\">キャリアプラン</a></li>\n</ul>\n</li>\n<li>アウトプット</li>\n</ul>\n</li>\n<li>2020年\n\n<ul>\n<li>世の中に何をもたらせるか？もたらしたいか？</li>\n<li>転職\n\n<ul>\n<li>現職の構造的問題</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>一年で色んな事に挑戦されていますね。これが初のLT発表だったそうです。</p>\n\n<p>私はまだ未経験ですが、好きなキャラの格好で勉強するのは、とても気分が上がりそうです。</p>\n\n<p>Yagiboの膝上テーブルとノートPCの組み合わせは、座ることが多いなら移動の隙間時間に色々できそうですね。仕事で移動の多い方は持つといいかもしれません。</p>\n\n<h2>LT10：「Work and Run 走ることから学んだこと」</h2>\n\n<h3>概要</h3>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1XA624xg4fiM3M4UYYr8598yxwlskvb8aGX7CLbf0zv0%2Fedit%23slide%3Did.p\" title=\"年忘れLT大会(melOn)\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<p><blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">遅くなりましたが、昨日の登壇資料です。ご査収ください。 <a href=\"https://twitter.com/hashtag/engineers_lt?src=hash&amp;ref_src=twsrc%5Etfw\">#engineers_lt</a><a href=\"https://t.co/6IOxgIzN4q\">https://t.co/6IOxgIzN4q</a></p>&mdash; <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Ghostface\">Ghostface</a> melOn (キョ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C0%A5%A4%A5%DE\">ダイマ</a>ックスのすがた) (@<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Ghostface\">Ghostface</a>_melOn) <a href=\"https://twitter.com/Ghostface_melOn/status/1209242508955246593?ref_src=twsrc%5Etfw\">2019年12月23日</a></blockquote><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n\n<p><a href=\"https://twitter.com/Ghostface_melOn\">Ghostface melOn (&#x30AD;&#x30E7;&#x30C0;&#x30A4;&#x30DE;&#x30C3;&#x30AF;&#x30B9;&#x306E;&#x3059;&#x304C;&#x305F;) (@Ghostface_melOn) | Twitter</a>さんによる、走ることと学ぶことについてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>製造業の情報システム</li>\n<li>音楽が趣味\n\n<ul>\n<li>雑誌に記事を寄稿\n\n<ul>\n<li>繁忙期：半月で4000字の記事を書く</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>登壇\n\n<ul>\n<li>健康に関するテーマで登壇</li>\n</ul>\n</li>\n<li>健康ネタの総決算\n\n<ul>\n<li>繊細であれ、柔軟であれ\n\n<ul>\n<li>調子のいい時、悪い時</li>\n<li>調子に気を配って、計画を調整するのが大事</li>\n<li>他人を気を配る→「マネジメント」</li>\n</ul>\n</li>\n<li>やり方でなく考え方を学べ\n\n<ul>\n<li>成功者のやり方は人それぞれ</li>\n<li>考え方に目を向ける</li>\n<li>多くの人を研究→自分に合うものを選ぶ\n\n<ul>\n<li>一つに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B8%C7%BC%B9\">固執</a>しない</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>遊びを極める\n\n<ul>\n<li>原動力→楽しいから</li>\n<li>「楽しい」と感じたときの気持ちを大事にする\n\n<ul>\n<li>こういう事が起きていることが楽しい</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>来年の目標\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%C5%EC%B5%FE%A5%DE%A5%E9%A5%BD%A5%F3\">東京マラソン</a>:３時間半以内で完走\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.marathon.tokyo%2F\" title=\"東京マラソン2020\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>柴又100kmマ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3\">ラソン</a>:10時間以内で完走\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftokyo100k.jp%2F\" title=\"柴又100K～東京⇔埼玉⇔茨城の道～【公式】\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>ブラインドマ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3\">ラソン</a>の伴走者</li>\n<li>技術ネタでの登壇</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>走ることが趣味になり、関連する本を読む中でエンジニアにも通じるものを学んだそう。</p>\n\n<p>「繊細であれ、柔軟であれ」、「やり方でなく考え方を学べ」、「遊びを極める」などは頭の隅に教訓として置いておきたいなと思いました。</p>\n\n<p>来年の目標がフルマ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3\">ラソン</a>の完走やブラインドマ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%E9%A5%BD%A5%F3\">ラソン</a>の伴走者と技術ネタでの登壇で、走ることと技術の両立を目指す感じですね。</p>\n\n<h2>LT11：「成長し続けるエンジニアを応援する勉強会スポンサーLT」</h2>\n\n<h3>概要</h3>\n\n<p>Forkwellの<a href=\"https://twitter.com/xigemoto\">&#x91CD;&#x672C; &#x6E67;&#x6C17;&#xFF5C;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x63A1;&#x7528;SaaS CS (@xigemoto) | Twitter</a>さんによるForkwellの紹介LTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>成長するエンジニアのライフマネジメントサイクル</li>\n<li>理想の働き方を創造する</li>\n<li>自分の市場価値を知る\n\n<ul>\n<li>Forkwell<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DD%A1%BC%A5%C8%A5%D5%A5%A9%A5%EA%A5%AA\">ポートフォリオ</a></li>\n</ul>\n</li>\n<li>理想と現実のギャップ\n\n<ul>\n<li>能力を磨いてギャップを埋める</li>\n<li>アウトプットする\n\n<ul>\n<li>フィードバックを得る</li>\n<li>アウトプットをまとめる→Forkwell<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DD%A1%BC%A5%C8%A5%D5%A5%A9%A5%EA%A5%AA\">ポートフォリオ</a>\n\n<ul>\n<li>振り返り</li>\n<li>自己紹介</li>\n<li>企業訪問</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>スカウト\n\n<ul>\n<li>情報交換</li>\n<li>チャット</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>エンジニアのデータを解析して<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DD%A1%BC%A5%C8%A5%D5%A5%A9%A5%EA%A5%AA\">ポートフォリオ</a>を作る系のサービスだと、FindyやLAPRASもありますね。</p>\n\n<p>こういうサービスを使うと、自分のアウトプットがどのくらいのパワーがあるか視覚化・数値化できるので、自分の位置がどの辺りか分かってやる気がでたり、ちょっとした自信がついたりします。</p>\n\n<p>私も理想にはまだまだ遠いので、もうちょっと頑張ろうかなと思います。</p>\n\n<h2>LT12：「アホで乗り越える失敗との付き合い方」</h2>\n\n<h3>概要</h3>\n\n<p><iframe id=\"talk_frame_585795\" src=\"//speakerdeck.com/player/9e2925791fa44c2592efdaf3aa0a9284\" width=\"710\" height=\"399\" style=\"border:0; padding:0; margin:0; background:transparent;\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe></p>\n\n<p><a href=\"https://twitter.com/DddEndow\">&#x3042;&#x304D;&#x306E;/D-En (@DddEndow) | Twitter</a>さんによる失敗の乗り越え方と、失敗が怖くなるやり方についてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>Developers Boost 2019に登壇\n\n<ul>\n<li>会社のSlackで手を挙げる</li>\n<li>初登壇だった</li>\n</ul>\n</li>\n<li>アホになるってどういうこと？\n\n<ul>\n<li>生存本能はリスク > リターン\n\n<ul>\n<li>人間はリスクを避けようとする</li>\n<li>成長のためにはコンフォートゾーンから出る必要がある\n\n<ul>\n<li>このとき、リスクを取る必要がある</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>成長のためのアホになろう\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BF%B4%CD%FD%C5%AA\">心理的</a>障壁を下げる</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>失敗を楽しむ</li>\n<li>アホになる\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BF%B4%CD%FD%C5%AA\">心理的</a>障壁を外す</li>\n<li>限界に挑戦</li>\n<li>失敗を楽しむ</li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>LT12からはタイムテーブルには載っていない、ラフなLTです。</p>\n\n<p>成長のための失敗があり、それに取り組んで楽しむためには<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BF%B4%CD%FD%C5%AA\">心理的</a>障壁を下げないといけない。<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BF%B4%CD%FD%C5%AA\">心理的</a>障壁を下げるためにアホになろうというのは良いなと思います。</p>\n\n<p>自分自身は失敗が怖い性格で、挑戦できずに動けなくなってしまうタイプなので、アホになって色々できる人はとにかくそれだけで「凄い」という感情が先に立ちます。</p>\n\n<h2>LT13：「技術同人誌を2冊出してみた」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/akrolayer\">&#x3054;&#x307E;&#x306A;&#x3064;&#xFF20;12/14&#x6280;&#x66F8;&#x535A; 3F-&#x3055;05 &#x30AD;&#x30FC;&#x30D0;&#x30A4;&#x30F3;&#x30C9;&#x672C; (@akrolayer) | Twitter</a>さんによる技術同人誌を2冊出したことについてのLTです。</p>\n\n<h3>メモ</h3>\n\n<ul>\n<li>「ゲームセンターを楽しむ技術」\n\n<ul>\n<li>合同誌</li>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgomana2.booth.pm%2Fitems%2F1542903\" title=\"ゲームセンターを楽しむ技術 - ごまなつ - BOOTH\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AutoHotKey\">AutoHotKey</a>・Karabiner-Elementsではじめる<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AD%A1%BC%A5%D0%A5%A4%A5%F3%A5%C9\">キーバインド</a>設定」\n\n<ul>\n<li>単著</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AutoHotkey\">AutoHotkey</a>、Karabiner-Elementsについての本</li>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgomana2.booth.pm%2Fitems%2F1721470\" title=\"AutoHotKey・Karabiner-Elementsではじめるキーバインド設定 - ごまなつ - BOOTH\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n<li>合同誌の進め方\n\n<ul>\n<li>内容を決める</li>\n<li>人を集める</li>\n<li>表紙のイラストを依頼する</li>\n<li>細かい締切を決める</li>\n</ul>\n</li>\n<li>単著\n\n<ul>\n<li>内容を決める</li>\n<li>書く→きつい\n\n<ul>\n<li>締め切りをいつにするか？\n\n<ul>\n<li>早割を使うか？</li>\n</ul>\n</li>\n<li>内容をどこまで書くか？</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>単著の方が売れると嬉しい</li>\n<li>合同誌は質が良くなる</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>一年で合同誌と単著でそれぞれ1冊、計2冊の技術同人誌を出したとのこと。</p>\n\n<p>合同誌は多くの人で書くことで総合的な質は高くなりますが、人を集めたり、原稿を取りまとめたりと、本そのものを書くこと以外の部分での作業が多いという印象です。趣味の方で合同誌が作られていくのを<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Twitter\">Twitter</a>のタイムライン越しに少し見たことがありますが、先頭に立ってまとめている人は凄いなあと思いながら見ていました。</p>\n\n<p>単著の方は内容を決めてしまえば、後は自分で書いていくことが中心になりますが、ある程度集団での合意がある合同誌とは違い、多くが自分との戦い的な面があるので、その辺りが合同誌よりも苦労する点なのかなと思いました。</p>\n\n<h2>LT14：「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> Ambassadorになりました」</h2>\n\n<h3>概要</h3>\n\n<p><a href=\"https://twitter.com/hirosys_\">hiro@JAWS DAYS2020 (@hirosys_) | Twitter</a>さんによる<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> Ambassadorになったことを振り返るLTです。</p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Faws.amazon.com%2Fjp%2Fblogs%2Fpsa%2Fjapan-apn-ambassador-2019%2F\" title=\"Japan APN Ambassador 2019の発表 | Amazon Web Services\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></p>\n\n<h3>メモ</h3>\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> Ambassador\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a>のパートナー企業から選ばれるアンバサダー</li>\n<li>選出条件\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a>に関するブログや書籍の執筆</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a>に関する登壇</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> プロフェッショナルレベルの資格</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JAWS\">JAWS</a> DAYS 2020\n\n<ul>\n<li><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fjawsdays2020.jaws-ug.jp%2F\" title=\"JAWS DAYS 2020\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe></li>\n</ul>\n</li>\n</ul>\n\n\n<h3>感想</h3>\n\n<p>2019年の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> Ambassadorに選出されたとのこと。</p>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a> Ambassadorについての解説と、選出条件が解説されていました。会場に他の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/AWS\">AWS</a>のパートナー企業の方もいらっしゃったようで、「次はそちらの会社もどうぞ！」的な呼びかけもあり、会場が沸いていました。</p>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JAWS\">JAWS</a> DAYS 2020の紹介もありました。\n手頃なお値段で色んなカンファレンスが聞けそうなので、予定が合えば行きたいなと思いました。</p>\n\n<h1>懇親会</h1>\n\n<p>実は、LTの12以降は懇親会をやりながらのLTという、ざっくばらんな形式で行われました。\n飲みながらのんびりと色んな方の話を聞いてみたりしていました。</p>\n\n<p>時期的に年末が近かったこともあり、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%DF%A5%B1\">コミケ</a>の話や帰省の話などもチラホラと飛び交っていました。</p>\n\n<h1>感想</h1>\n\n<p>エンジニアの登壇へのハードルを下げるコミュニティということで、程よく気楽な雰囲気でした。\n登壇された方も、そうでない方も皆、2019年はきっと何か、少しずつでも進歩があったんだなと思うと、仕事を探している身としては焦燥感を感じました。と同時に、もう一度エンジニアとして働けたら、自分のできた何かをアウトプットしたいなとも感じました。</p>\n"
+      }
+    ]
+  },
+  {
+    "username": "pityaro",
+    "articles": []
+  },
+  {
+    "username": "n0dam1",
+    "articles": []
+  },
+  {
+    "username": "s17er",
+    "articles": []
+  },
+  {
+    "username": "enkunkun",
+    "articles": []
+  },
+  {
+    "username": "xef",
+    "articles": []
+  },
+  {
+    "username": "LukeSilvia",
+    "articles": []
+  },
+  {
+    "username": "nabeatsu1",
+    "articles": []
+  },
+  {
+    "username": "adwd118",
+    "articles": []
+  },
+  {
+    "username": "lukefone-story",
+    "articles": [
+      {
+        "title": "MacOS Catalinaアップグレード後にitamaeを使おうとしたらエラー[...usr/bin/ruby: bad interpreter: No such file or directory]が出た",
+        "link": "https://www.nooozui.com/entry/20200117/1579239181",
+        "pubDate": "Fri, 17 Jan 2020 14:33:01 +0900",
+        "description": "<ul class=\"table-of-contents\">\n    <li><a href=\"#はじめに\">はじめに</a><ul>\n            <li><a href=\"#エラー内容\">エラー内容</a></li>\n        </ul>\n    </li>\n    <li><a href=\"#解決策\">解決策</a></li>\n    <li><a href=\"#原因\">原因</a></li>\n    <li><a href=\"#参考\">参考</a></li>\n</ul>\n\n<h3 id=\"はじめに\">はじめに</h3>\n\n<p>ruby製のデプロイフレームワークであるitamaeを使用しているが、とあるときに以下のエラーが発生して使えなくなったので、解決方法とその備忘録。</p>\n\n<h5 id=\"エラー内容\">エラー内容</h5>\n\n<pre class=\"code\" data-lang=\"\" data-unlink>-bash: /usr/local/bin/itamae: /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby: bad interpreter: No such file or directory</pre>\n\n\n<p>rubyを使ったことは殆どないのだが、どうもitamaeとrubyどちらにも問題があるように見える。</p>\n\n<h3 id=\"解決策\">解決策</h3>\n\n<p>itamaeをインストールしなおした。</p>\n\n<pre class=\"code\" data-lang=\"\" data-unlink>$ sodo gem install itamae</pre>\n\n\n<h3 id=\"原因\">原因</h3>\n\n<p>とりあえず使えればよかったのでちゃんと調査はしていないが、どうもCatalinaにアップグレードした際にrubyのバージョンに変更があり、その影響でgemが管理しているライブラリの依存関係もクリアにされてしまったように見える。</p>\n\n<p>実際に<code>gem list</code>をするとitamaeがなくなっていた。</p>\n\n<p>そういえばOSのデフォルトのrubyを使っていたので、今後はrbenvとかでちゃんと管理しようと思う。</p>\n\n<p>なのでおそらくCatalinaやitamaeに限らず同様の事象は起こりうると思う。</p>\n\n<h3 id=\"参考\">参考</h3>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FCocoaPods%2FCocoaPods%2Fissues%2F8955\" title=\"Brew based CocoaPods CLI fails in MacOS 10.15 Catalina due incorrect fallback to Ruby 2.3 · Issue #8955 · CocoaPods/CocoaPods\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"https://github.com/CocoaPods/CocoaPods/issues/8955\">github.com</a></cite></p>\n"
+      }
+    ]
+  },
+  {
+    "username": "okumuraa1",
+    "articles": []
+  },
+  {
+    "username": "takasian_pride",
+    "articles": []
+  },
+  {
+    "username": "arvelt",
+    "articles": []
+  },
+  {
+    "username": "syug",
+    "articles": []
+  },
+  {
+    "username": "loligothick",
+    "articles": []
+  },
+  {
+    "username": "threeMonths",
+    "articles": []
+  },
+  {
+    "username": "mp0liiu",
+    "articles": []
+  },
+  {
+    "username": "syakep",
+    "articles": []
+  },
+  {
+    "username": "cuttoff19",
+    "articles": []
+  },
+  {
+    "username": "azumanga0420",
+    "articles": []
+  },
+  {
+    "username": "mkusaka",
+    "articles": []
+  },
+  {
+    "username": "masa_iwasaki",
+    "articles": []
+  },
+  {
+    "username": "kiryuanzu",
+    "articles": []
+  },
+  {
+    "username": "mizchi",
+    "articles": [
+      {
+        "title": "プログラミングを学ぶにあたって詰まったことと、そこから学んだこと",
+        "link": "https://mizchi.hatenablog.com/entry/2020/01/16/212617",
+        "pubDate": "Thu, 16 Jan 2020 21:26:17 +0900",
+        "description": "<p><iframe src=\"https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftoyokeizai.net%2Farticles%2F-%2F324812\" title=\"素人がプログラミングに挑んでみて見えた境地 | 最新の週刊東洋経済\" class=\"embed-card embed-webcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"https://toyokeizai.net/articles/-/324812\">toyokeizai.net</a></cite></p>\n\n<p><iframe src=\"https://hatenablog-parts.com/embed?url=http%3A%2F%2Fsatoru-takeuchi.hatenablog.com%2Fentry%2F2020%2F01%2F16%2F014438\" title=\"プログラミングでつまづいてきたこと - 覚書\" class=\"embed-card embed-blogcard\" scrolling=\"no\" frameborder=\"0\" style=\"display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;\"></iframe><cite class=\"hatena-citation\"><a href=\"http://satoru-takeuchi.hatenablog.com/entry/2020/01/16/014438\">satoru-takeuchi.hatenablog.com</a></cite></p>\n\n<p>全然レイヤーが違うが、自分が何に悩んで、どういう風に理解したか、思い出しながら書き出してみる。</p>\n\n<h2>プログラミング歴</h2>\n\n<p>20歳からなので、現時点で10年ぐらいだが、中学生の時ちょっと触ったことがあった。</p>\n\n<ul>\n<li>14 歳: 病気で入院したときに暇すぎて、2 週間ほど <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/VBA\">VBA</a> を触った</li>\n<li>大学 1 年: 大学の選択科目で <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a>, 夏休みに <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Python\">Python</a> と <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Ubuntu\">Ubuntu</a> の独習</li>\n<li>大学 3 年: <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Python\">Python</a> で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BC%AB%C1%B3%B8%C0%B8%EC%BD%E8%CD%FD\">自然言語処理</a>のバイト</li>\n<li>大学 4 年: <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Android\">Android</a> アプリを作るバイト、就活<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%DD%A1%BC%A5%C8%A5%D5%A5%A9%A5%EA%A5%AA\">ポートフォリオ</a>として node/Websocket で MMO</li>\n<li>一社目: Unity, <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/ActionScript\">ActionScript</a>, <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Haskell\">Haskell</a>, <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a></li>\n<li>以降~: <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a>/<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/CoffeeScript\">CoffeeScript</a>/TypeScript 主に React で SPA を作る仕事</li>\n</ul>\n\n\n<h2>学習過程で詰まったこと</h2>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/VBA\">VBA</a>: 最初の体験</h3>\n\n<ul>\n<li>変数の概念。同じシンボルの中身が、代入が実行されたときの時系列で変化する、という概念が掴めなかった。後に再代入禁止の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B4%D8%BF%F4%B7%BF%B8%C0%B8%EC\">関数型言語</a>を知って、やっぱそっちのが自然に感じる人もいるよね、と腑に落ちた。</li>\n<li>関数と引数の概念。プログラムは上から下に流れるものと理解していたので、その上下の外に処理を追い出す必要性がわからなかった。関数呼び出し側と関数定義側の引数の名前が違っていいことに混乱した。一定以上の規模のコードを書くことで理解できたと思う。</li>\n</ul>\n\n\n<p>ループや if はすんなり理解できたが関数に手こずった。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a>: 大学の授業</h3>\n\n<ul>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A5%A7%A5%CD%A5%EA%A5%AF%A5%B9\">ジェネリクス</a>の概念: そもそも <code>&lt;T&gt;</code> の構文が難しく、構文上どこで何のスコープが何の型に有効になってるのか、まるでわからなかった。最初はたぶんデータ構造と<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%B4%A5%EA%A5%BA%A5%E0\">アルゴリズム</a>の教本の、ソート<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%B4%A5%EA%A5%BA%A5%E0\">アルゴリズム</a>を<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A5%A7%A5%CD%A5%EA%A5%AF%A5%B9\">ジェネリクス</a>対応しましょう、というやつだったと思うが、自分で書いたコードで<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A5%A7%A5%CD%A5%EA%A5%AF%A5%B9\">ジェネリクス</a>が必要になるまで、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B8%A5%A7%A5%CD%A5%EA%A5%AF%A5%B9\">ジェネリクス</a>の必要性を理解できなかったように思う。</li>\n<li>標準ライブラリの<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C7%A5%B6%A5%A4%A5%F3%A5%D1%A5%BF%A1%BC%A5%F3\">デザインパターン</a>: 特に <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a> の標準ライブラリで頻出するファクトリーパターンで、なぜこんなややこしい手続きが必要なのか理解できないものが多かった。</li>\n<li>リスナー: Java6 の時代なので、Lambda や<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%B9%E2%B3%AC%B4%D8%BF%F4\">高階関数</a>がなく、関数参照の扱いが難しかった</li>\n</ul>\n\n\n<p>動くが<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/API\">API</a>デザインが理解できない。こんな複雑な必要はないだろ、と思っていた気がする。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Python\">Python</a> (2 系) 半年〜</h3>\n\n<ul>\n<li>文字列の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A8%A5%F3%A5%B3%A1%BC%A5%C7%A5%A3%A5%F3%A5%B0\">エンコーディング</a>の概念: 主に <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/python\">python</a> 2 系が悪いのだが、 ascii, <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/sjis\">sjis</a>, <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/unicode\">unicode</a>, utf8 の変換が、かなりややこしかった。今でも <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/python\">python</a> の文字列の扱いは苦手意識がある。</li>\n<li>パッケージマネージャの概念: 標準ライブラリ以外にライブラリがある、という発想が最初なかった。当時使われていた easy_install の出来が悪いのもあり、ポータブルな開発環境を作れなかった。そして今でも <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/python\">python</a> のポータブルな環境構築は難しい。(自分は pyenv/pipenv を使ってるが、どうも主流になりそうにない…)</li>\n</ul>\n\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Python\">Python</a> でプログラミングの基礎を覚えて、基本的な処理を不自由なくかけるようになったが、就職活動をやる必要があった当時、仕事がまったくなかったので、 <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> というか当時出たばかりの Node.js に手を出した。</p>\n\n<h3><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/JavaScript\">JavaScript</a> (Node.js) 2年目〜</h3>\n\n<ul>\n<li>非同期の概念: この時点でもまだコードは上から下に読み下すもの、という意識があったので、読み下した順に上から時系列に実行されない非同期コールバックという概念を掴むのに時間が掛かった。</li>\n<li><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CC%BE%C1%B0%B6%F5%B4%D6\">名前空間</a>の概念: window に紐づく<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B0%A5%ED%A1%BC%A5%D0%A5%EB%CA%D1%BF%F4\">グローバル変数</a>と、レキシカルなスコープで宣言されたものにアクセスできる、というのに時間が掛かった。上の非同期のスコープの概念と合わさって、かなり理解に時間を要した記憶がある。</li>\n<li>Promise: 非同期コールバックのプログラミングパターンが「処理の継続」なら、 Promise のは「いずれ解決される値のチェーン」と言えるが、そこで生まれるプログラミングの仕方の変化に対応するのに時間が掛かった。 また、 Promise は遅延以外に暗に例外も扱ってるのが話をややこしくしていると思う。 他の言語で言う Either と Future が混ざっている。</li>\n</ul>\n\n\n<h2>学んだこと</h2>\n\n<h3>常に小さいプロジェクトを作って素振りする</h3>\n\n<p>仕事で書くコードは、いつだって現実と戦わねばならない。どんなに理想的な目標を掲げるエンジニアが設計していても、必ず経年劣化や、止むに止まれぬ事情で、技術的な負債がある。</p>\n\n<p>そのような環境では、既存のコードの「重み」がノイズになってしまう。だから、新しいライブラリを試すときは、ノイズが少ない小さな環境で素振りをする。そしてライブラリが達成する本質的な課題や、その上で発生する別の課題を理解する。</p>\n\n<p>自分は<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/GitHub\">GitHub</a>で気になったライブラリは必ず小さな<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA\">リポジトリ</a>で素振りして評価するように心がけている。いきなり仕事のプロダクトに突っ込むことはしない。</p>\n\n<p>仕事と同じスタックで、趣味のプロダクトを作るのは、とても勉強になるので、誰にとってもおすすめ。</p>\n\n<h3>静的型付け・<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AA%A5%D6%A5%B8%A5%A7%A5%AF%A5%C8%BB%D8%B8%FE\">オブジェクト指向</a>の必要性</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a> の過剰な抽象度とそれによる手数の多さから、自分はうんざりして <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Python\">Python</a> にいったのだが、そのときに自分が書いたプログラムが自分の手足のように動く感覚、万能感を感じた。そしてパッケージマネージャからのインストールを覚えたあたりで、自分の能力が無限に拡張されるような感覚を覚えた。</p>\n\n<p>しかし一定以上の規模のコードを書くには、何かしらルールが必要なのもわかってきた。自分でわかってるつもりになって書いたコードですら、5000行書いたあたりからいつも破綻しはじめる。</p>\n\n<p>静的型付けが常に必須というわけではないが、静的型付けがない大規模環境には、その分テストコードを書く文化だったり、手動テストを多めに要求されたり、ドキュメントを書く文化だったりがある。あるいは、お行儀が良いコードパターンが決まっていて、それをレビューで要求されたりする。その経験を経て、自分は静的型付けってのは非常に<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%B3%A5%B9%A5%D1\">コスパ</a>がよいドキュメント兼リンターなのだと理解した。(ので自分は TypeScript を使っている)</p>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AA%A5%D6%A5%B8%A5%A7%A5%AF%A5%C8%BB%D8%B8%FE\">オブジェクト指向</a>、というかその言語における<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%AA%A5%D6%A5%B8%A5%A7%A5%AF%A5%C8%BB%D8%B8%FE\">オブジェクト指向</a>の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C7%A5%B6%A5%D1%A5%BF\">デザパタ</a>は、<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C7%A5%B6%A5%D1%A5%BF\">デザパタ</a>をわかってる人同士の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%C8%A5%B3%A5%EB\">プロトコル</a>伝達のためのツールであって、ゼロから<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/API\">API</a>の体系を構築するより、効率的、ということを学んだ。</p>\n\n<p>個人的な持論だが、初学者が <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/Java\">Java</a> や C の言語制約を乗り越えながらプログラミングの面白さを感じるのは難しいと思う。どうしてもプログラミングのためのプログラミングに終始しがちなので…</p>\n\n<h3>良いコードを書く必要性</h3>\n\n<p>良いコードを書くのは自己満足ではない。コード品質は、他のゴールに変換可能なバッファだ。</p>\n\n<p>汚いコードを拡張しながら別の目的を達する汚いコードにするのは困難だが、綺麗なコードを元に汚いコードで目的を実現するのは比較的容易だ。汚いコードを高速化するには困難で、というか必ずリファクタして綺麗なコードを経由してからではないと、高速化というのは困難なことが多い。曲芸的なチューニングは基本的に品質を悪化させる。パフォーマンス目的で汚いコードを書くことはある(とくに数式をコードに落とすケース)が、その場合はコメントでその旨を記述して、かつ他に影響が出ないように影響を局所的に書かないといけない。</p>\n\n<p>そして、自分が書いた経験の中で、良いコードの定義を持たないといけない。自分にとって良いコードとは、可読性があり、モジュール境界が明確で、テストしやすく、ツールによる静的な検査が可能で、拡張性があること。なので、非可逆な操作で<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%CC%BE%C1%B0%B6%F5%B4%D6\">名前空間</a>をハックするタイプの <a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/DSL\">DSL</a> は一番やってはいけないこと、と認識している。</p>\n\n<p>そして誤解されがちなのは、良いコードを書く条件は、「そのコードを書くのに掛けた時間と<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A1%BC%A5%C9%A5%AA%A5%D5\">トレードオフ</a>」、ではない。そういう側面も確かにあるが、支配的なのは「今までにコードを書いてきた総時間との<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%C8%A5%EC%A1%BC%A5%C9%A5%AA%A5%D5\">トレードオフ</a>」で、いかによいパターンを事前に知っているか、が決め手になる。</p>\n\n<p>時間があれば三回同じものを実装すると良いものになる、とはそういうことだと思う。</p>\n\n<h3>「ハック」の副作用</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/OSS\">OSS</a>のライブラリにパッチを当てて運用したり、グローバルなオブジェクトを書き換えたり、そういう所作を「<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%CF%A5%C3%A5%AB%A1%BC\">ハッカー</a>的でかっこいい」という見方もある。</p>\n\n<p>しかし、それらの多くのケースで、ライブラリの責務を誤解していたり、単なる無理解でそのようなハックに手を出す人が多い。ハックは目先の問題を解決するが、それがどれぐらい重大な副作用が発生しうるか、想像できる必要がある。</p>\n\n<p>例えば、ある言語のコミッタがある問題を解決するのに<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/GC\">GC</a>を止めて処理させていたりしたのを見たが、それはその言語の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/GC\">GC</a>に対して深い理解がないとできないし、おそらく知識があったとしても推奨される解決策ではないだろう。</p>\n\n<h3>ライブラリ選定</h3>\n\n<p><a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/OSS\">OSS</a> の時代、最新の流行についていかないことはリスクだと認識している。セキュリティの問題もあるが、ドキュメントの問題が大きい。誰も使ってないライブラリや、古すぎるバージョンで発生した解決策は、誰も知らないし、ドキュメントにも残ってない(ドキュメントは最新版以外残りづらい)。そして自分でコードを読んで、最悪パッチを当てて解決するが、そうするとよりメインラインと乖離してしまう。</p>\n\n<p>フロントエンドの場合は、デザインのトレンドや、デ<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D0%A5%A4%A5%B9\">バイス</a>のライフサイクルの問題で、5~10年でUIを作り直すことが多いと思う。しかし技術的な大きな<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%D1%A5%E9%A5%C0%A5%A4%A5%E0\">パラダイム</a>が5年おきに変わる。これがフロントエンドの疲弊の原因であると理解している。</p>\n\n<p>しかし、ライブラリが死んで、次のライブラリが出たとき、前のライブラリで発生した問題を踏まないように設計されたものが次のトレンドになる。ので、前世代を知らないと次世代のものを評価できない。エコシステムの変化は連続的であるので、自分がその道のプロを名乗るなら、連続的な変化を学ぶために常に追い続けなければならい。</p>\n\n<p>ライブラリを使わないことも意識すべきだ。あるライブラリを自分の環境に入れたとしても、そのコードの一部しか使わない。その一部のために、全体として負債となる可能性があるライブラリなら、可能なら避けたほうが良い。「確かに目的に沿うが解決のアプローチがそもそも間違っていて他に誰も使ってないマイナーなライブラリを採用して後に負債になってしまう」のが初心者が陥りやすい<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%F3%A5%C1%A5%D1%A5%BF%A1%BC%A5%F3\">アンチパターン</a>だと思う。</p>\n\n<h3>DRY の<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%BC%E9%C7%CB%CE%A5\">守破離</a></h3>\n\n<p>「同じような処理は関数でまとめましょう」と最初は習う。そのとおりだと思う。</p>\n\n<p>しかし同じ関数で異なる目的のものが混ざっていたり、実は無関係なものが一緒になってしまったり、するぐらいなら、DRY にしないほうがいいケースもある。</p>\n\n<p>DRYの<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A5%F3%A5%C1%A5%D1%A5%BF%A1%BC%A5%F3\">アンチパターン</a>は、コードをグルーピングして抽出する際に、モジュール境界を破壊してしまうことだ。例えば、 Model の関数が View を引数にとって、 Model と View 双方に副作用を起こす関数は、確かに処理としてはまとまるかもしれないが、責務としては適切ではない。</p>\n\n<p>モジュール境界面を意識することは、以下にテストしやすいコードを書いてるかというのと同義なので、「今書いてるコードにテストを書くならどうなるだろう」というのは常に意識すると、良いコードを目指しやすい。</p>\n\n<p>クリーン<a class=\"keyword\" href=\"http://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3\">アーキテクチャ</a>や DDD の戦略を知ることは、モジュール境界を意識させてくれる。それらを常に採用するべきとは言わないが、知っておくことは価値がある。</p>\n\n<h2>おわり</h2>\n\n<p>みんなも何に詰まったか、書いてみてください</p>\n"
+      }
+    ]
+  }
+]

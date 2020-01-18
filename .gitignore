@@ -1,0 +1,5 @@
+dist/
+node_modules/
+/jsondata-1.json
+/jsondata-2.json
+/result.json

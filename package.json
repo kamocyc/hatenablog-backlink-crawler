@@ -1,0 +1,28 @@
+{
+  "name": "scr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/xml2js": "^0.4.5",
+    "node-fetch": "^2.6.0",
+    "parse5": "^5.1.1",
+    "request": "^2.88.0",
+    "rss-parser": "^3.7.3",
+    "xml2js": "^0.4.23",
+    "xmldom": "^0.2.1",
+    "xmlserializer": "^0.6.1",
+    "xpath": "0.0.27"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.8",
+    "@types/node-fetch": "^2.5.4",
+    "tsc": "^1.20150623.0", 
+    "typescript": "^3.7.5"
+  }
+}
